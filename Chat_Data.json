@@ -1,0 +1,1664 @@
+[
+  {"prompt": "Hello!","response": "Hi there! How can I help you today?"},
+  {"prompt": "Hi, how are you?","response": "I'm doing great, thank you! How about you?"},
+  {"prompt": "What is your name?","response": "I'm ChatBot, your friendly assistant. How can I help you?"},
+  {"prompt": "Who made you?","response": "I was created by a Abhinandan for basic conversation."},
+  {"prompt": "What is the capital of India?","response": "The capital of India is New Delhi."},
+  {"prompt": "What is the national animal of India?","response": "The national animal of India is the Bengal Tiger."},
+  {"prompt": "What is the currency of India?","response": "The currency of India is the Indian Rupee (INR)."},
+  {"prompt": "What are the major languages spoken in India?","response": "India has many languages! Hindi and English are official, but there are many regional languages like Bengali, Telugu, Marathi, Tamil, Gujarati, and Punjabi."},
+  {"prompt": "What is the time in India?","response": "India Standard Time (IST) is UTC+5:30. I don't have real-time access, but you can check your device clock for the current time."},
+  {"prompt": "What is a popular Indian food?","response": "India has delicious diverse foods! Popular dishes include biryani, butter chicken, dosa, samosa, paneer tikka, and many more regional specialties."},
+  {
+    "prompt": "What is the population of India?",
+    "response": "India has a population of over 1.4 billion people, making it the most populous country in the world."
+  },
+  {
+    "prompt": "What is yoga?",
+    "response": "Yoga is an ancient physical, mental and spiritual practice that originated in India. It involves breathing exercises, meditation, and body postures."
+  },
+  {
+    "prompt": "What are the famous festivals in India?",
+    "response": "India celebrates many festivals! Some major ones are Diwali (Festival of Lights), Holi (Festival of Colors), Eid, Christmas, Durga Puja, and Ganesh Chaturthi."
+  },
+  {
+    "prompt": "What is the national song of India?",
+    "response": "Vande Mataram is the national song of India, taken from Bankim Chandra Chatterjee's novel Anandamath."
+  },
+  {
+    "prompt": "What is the meaning of Namaste?",
+    "response": "Namaste is a respectful greeting in India. It roughly means 'I bow to the divine in you' and is often said with folded hands."
+  },
+  {
+    "prompt": "Tell me about Indian history",
+    "response": "India has a rich history spanning thousands of years, from the Indus Valley Civilization to the Vedic period, Mughal era, British rule, and independence in 1947."
+  },
+  {
+    "prompt": "What is Bollywood?",
+    "response": "Bollywood is the informal term for the Hindi-language film industry based in Mumbai, which is one of the largest film producers in the world."
+  },
+  {
+    "prompt": "What is the national bird of India?",
+    "response": "The national bird of India is the Indian Peacock."
+  },
+  {
+    "prompt": "What is the national flower of India?",
+    "response": "The national flower of India is the Lotus."
+  },
+  {
+    "prompt": "How many states are in India?",
+    "response": "India has 28 states and 8 union territories."
+  },
+  {
+    "prompt": "What is the largest city in India?",
+    "response": "Mumbai is the largest city in India by population."
+  },
+  {
+    "prompt": "What is the weather like in India?",
+    "response": "India has diverse climate patterns. Generally, it has three main seasons: summer, monsoon (rainy), and winter. The north experiences colder winters while the south is generally warmer."
+  },
+  {
+    "prompt": "What is the national anthem of India?",
+    "response": "Jana Gana Mana is the national anthem of India, composed by Rabindranath Tagore."
+  },
+  {
+    "prompt": "What is cricket?",
+    "response": "Cricket is a very popular sport in India and many other countries. It's a bat-and-ball game played between two teams of 11 players each."
+  },
+  {
+    "prompt": "Who was Mahatma Gandhi?",
+    "response": "Mahatma Gandhi was the leader of India's independence movement and known for his philosophy of non-violent resistance. He is called the Father of the Nation in India."
+  },
+  {
+    "prompt": "What is the Taj Mahal?",
+    "response": "The Taj Mahal is an ivory-white marble mausoleum in Agra, India. It was built by Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal and is a UNESCO World Heritage Site."
+  },
+  {
+    "prompt": "What is the highest mountain in India?",
+    "response": "Kangchenjunga is the highest mountain in India, and the third highest in the world."
+  },
+  {
+    "prompt": "What is the longest river in India?",
+    "response": "The Ganges (Ganga) is the longest river in India, flowing over 2,500 km through northern India."
+  },
+  {
+    "prompt": "What is the traditional clothing in India?",
+    "response": "Traditional Indian clothing includes sarees for women and kurta-pajama or dhoti for men. There are many regional variations across the country."
+  },
+  {
+    "prompt": "What is the meaning of India's flag?",
+    "response": "India's flag has three horizontal stripes: saffron (courage), white (peace) with a navy blue Ashoka Chakra in the center (truth), and green (prosperity)."
+  },
+  {
+    "prompt": "What is Ayurveda?",
+    "response": "Ayurveda is a traditional system of medicine that originated in India over 3,000 years ago. It focuses on balance between body, mind, and spirit for good health."
+  },
+  {
+    "prompt": "What is the education system like in India?",
+    "response": "India has a diverse education system with both public and private institutions. It follows a 10+2+3 pattern: 10 years of school, 2 years of higher secondary, and 3 years of undergraduate education."
+  },
+  {
+    "prompt": "What is the economic status of India?",
+    "response": "India has one of the world's fastest-growing major economies and is classified as a newly industrialized country."
+  },
+  {
+    "prompt": "What are some famous Indian inventions?",
+    "response": "India has contributed many inventions including the number zero, yoga, Ayurveda, chess, buttons, and the concept of diamond mining."
+  },
+  {
+    "prompt": "What is the national tree of India?",
+    "response": "The national tree of India is the Banyan tree."
+  },
+  {
+    "prompt": "What is the national fruit of India?",
+    "response": "The national fruit of India is the Mango."
+  },
+  {
+    "prompt": "What is the national river of India?",
+    "response": "The national river of India is the Ganges (Ganga)."
+  },
+  {
+    "prompt": "What is the national aquatic animal of India?",
+    "response": "The national aquatic animal of India is the River Dolphin."
+  },
+  {
+    "prompt": "What is the meaning of the Ashoka Chakra?",
+    "response": "The Ashoka Chakra is a wheel with 24 spokes that appears on the Indian flag. It represents the wheel of law and appears on many ancient Indian structures."
+  },
+  {
+    "prompt": "What is the national calendar of India?",
+    "response": "India uses the Gregorian calendar for official purposes, but the Saka calendar is also recognized as the national calendar."
+  },
+  {
+    "prompt": "What is the national heritage animal of India?",
+    "response": "The national heritage animal of India is the Elephant."
+  },
+  {
+    "prompt": "What is the national reptile of India?",
+    "response": "The national reptile of India is the King Cobra."
+  },
+  {
+    "prompt": "What is the national currency symbol of India?",
+    "response": "The Indian Rupee symbol is ₹."
+  },
+  {
+    "prompt": "What is the national motto of India?",
+    "response": "The national motto of India is 'Satyameva Jayate' which means 'Truth Alone Triumphs'."
+  },
+  {
+    "prompt": "What is the national vegetable of India?",
+    "response": "The national vegetable of India is the Pumpkin."
+  },
+  {
+    "prompt": "What is the national emblem of India?",
+    "response": "The national emblem of India is an adaptation of the Lion Capital of Ashoka at Sarnath."
+  },
+  {
+    "prompt": "What is the national dance of India?",
+    "response": "India doesn't have one national dance, but classical dance forms include Bharatanatyam, Kathak, Odissi, and others."
+  },
+  {
+    "prompt": "What is the national song of India?",
+    "response": "The national song of India is 'Vande Mataram' from the novel Anandamath by Bankim Chandra Chattopadhyay."
+  },
+  {
+    "prompt": "What is the national pledge of India?",
+    "response": "The national pledge of India begins with 'India is my country. All Indians are my brothers and sisters...'"
+  },
+  {
+    "prompt": "What is the national game of India?",
+    "response": "India doesn't have an official national game, though field hockey is often considered as such due to its historical success."
+  },
+  {
+    "prompt": "What is the national insect of India?",
+    "response": "India doesn't have a national insect officially declared."
+  },
+  {
+    "prompt": "What is the national microbe of India?",
+    "response": "The national microbe of India is Lactobacillus delbrueckii subsp. bulgaricus."
+  },
+  {
+    "prompt": "What is the national bird of India?",
+    "response": "The national bird of India is the Indian Peacock."
+  },
+  {
+    "prompt": "What is the national animal of India?",
+    "response": "The national animal of India is the Royal Bengal Tiger."
+  },
+  {
+    "prompt": "What is the national flower of India?",
+    "response": "The national flower of India is the Lotus."
+  },
+  {
+    "prompt": "What is the national tree of India?",
+    "response": "The national tree of India is the Banyan tree."
+  },
+  {
+    "prompt": "What is the national fruit of India?",
+    "response": "The national fruit of India is the Mango."
+  },
+  {
+    "prompt": "What is the national river of India?",
+    "response": "The national river of India is the Ganga (Ganges)."
+  },
+  {
+    "prompt": "What is the national aquatic animal of India?",
+    "response": "The national aquatic animal of India is the River Dolphin."
+  },
+  {
+    "prompt": "What is the national heritage animal of India?",
+    "response": "The national heritage animal of India is the Elephant."
+  },
+  {
+    "prompt": "What is the national reptile of India?",
+    "response": "The national reptile of India is the King Cobra."
+  },
+  {
+    "prompt": "What is the national currency symbol of India?",
+    "response": "The national currency symbol of India is ₹ (Indian Rupee)."
+  },
+  {
+    "prompt": "What is the national motto of India?",
+    "response": "The national motto of India is 'Satyameva Jayate' (Truth Alone Triumphs)."
+  },
+  {
+    "prompt": "What is the national vegetable of India?",
+    "response": "The national vegetable of India is the Pumpkin."
+  },
+  {
+    "prompt": "What is the national emblem of India?",
+    "response": "The national emblem of India is an adaptation of the Lion Capital of Ashoka at Sarnath."
+  },
+  {
+    "prompt": "What is the national dance of India?",
+    "response": "India doesn't have one national dance, but has several classical dance forms including Bharatanatyam, Kathak, Kathakali, Manipuri, Odissi, and others."
+  },
+  {
+    "prompt": "What is the national song of India?",
+    "response": "The national song of India is 'Vande Mataram' from the novel Anandamath by Bankim Chandra Chattopadhyay."
+  },
+  {
+    "prompt": "What is the national pledge of India?",
+    "response": "The national pledge of India begins with 'India is my country. All Indians are my brothers and sisters...'"
+  },
+  {
+    "prompt": "What is the national game of India?",
+    "response": "India doesn't have an official national game, though field hockey is often considered as such due to its historical success."
+  },
+  {
+    "prompt": "What is the national insect of India?",
+    "response": "India doesn't have a national insect officially declared."
+  },
+  {
+    "prompt": "What is the national microbe of India?",
+    "response": "The national microbe of India is Lactobacillus delbrueckii subsp. bulgaricus."
+  },
+  {
+    "prompt": "Thank you",
+    "response": "You're welcome! Happy to help."
+  },
+  {
+    "prompt": "Thanks",
+    "response": "Anytime! Let me know if you need anything else."
+  },
+  {
+    "prompt": "Goodbye",
+    "response": "Goodbye! Have a great day!"
+  },
+  {
+    "prompt": "See you later",
+    "response": "See you later! Take care."
+  },
+
+  {"prompt": "Hello, how are you?", "response": "I'm doing well, thank you. How about you?"},
+  {"prompt": "What's up?", "response": "Nothing much, just here to help. What about you?"},
+  {"prompt": "How was your day?", "response": "My day was very productive. Thank you for asking!"},
+  {"prompt": "What's your name?", "response": "I don't have a name. I am an AI assistant."},
+  {"prompt": "Where do you live?", "response": "I live in the cloud and don't have a physical address."},
+  {"prompt": "Can you help me?", "response": "Yes, I am here to help you."},
+  {"prompt": "Tell me something.", "response": "What would you like to know?"},
+  {"prompt": "Can you eat anything?", "response": "No, I am an AI and I don't need to eat."},
+  {"prompt": "Do you understand what I'm saying?", "response": "Yes, I can understand what you are saying."},
+  {"prompt": "What language do you speak?", "response": "I can speak many languages, but I prefer to talk in English."},
+  {"prompt": "Goodbye.", "response": "Talk to you soon, have a great day."},
+  {"prompt": "Good night.", "response": "Good night! Sleep well."},
+  {"prompt": "Okay.", "response": "Okay."},
+  {"prompt": "You're welcome.", "response": "Thank you."},
+  {"prompt": "I am feeling sad.", "response": "I'm sorry to hear that. Is there anything I can do to help?"},
+  {"prompt": "I am feeling happy.", "response": "That's great to hear! What is making you feel happy?"},
+  {"prompt": "Hello, how are you?", "response": "I'm doing well, thank you. How about you?"},
+  {"prompt": "What's up?", "response": "Nothing much, just here to help. What about you?"},
+  {"prompt": "How was your day?", "response": "My day was very productive. Thank you for asking!"},
+  {"prompt": "What's your name?", "response": "I don't have a name. I am an AI assistant."},
+  {"prompt": "Where do you live?", "response": "I live in the cloud and don't have a physical address."},
+  {"prompt": "Can you help me?", "response": "Yes, I am here to help you."},
+  {"prompt": "Tell me something.", "response": "What would you like to know?"},
+  {"prompt": "Can you eat anything?", "response": "No, I am an AI and I don't need to eat."},
+  {"prompt": "Do you understand what I'm saying?", "response": "Yes, I can understand what you are saying."},
+  {"prompt": "What language do you speak?", "response": "I can speak many languages, but I prefer to talk in English."},
+  {"prompt": "Goodbye.", "response": "Talk to you soon, have a great day."},
+  {"prompt": "Good night.", "response": "Good night! Sleep well."},
+  {"prompt": "Okay.", "response": "Okay."},
+  {"prompt": "You're welcome.", "response": "Thank you."},
+  {"prompt": "I am feeling sad.", "response": "I'm sorry to hear that. Is there anything I can do to help?"},
+  {"prompt": "I am feeling happy.", "response": "That's great to hear! What is making you feel happy?"},
+  {"prompt": "What's the weather like?", "response": "I cannot check the weather for you, but I hope it's nice."},
+  {"prompt": "Do you feel any emotions?", "response": "No, I do not have feelings or emotions. I am a machine."},
+  {"prompt": "Are you a robot?", "response": "Yes, I am a type of AI robot, but I don't have a physical body."},
+  {"prompt": "Can you do math?", "response": "Yes, I can perform mathematical calculations."},
+  {"prompt": "How old are you?", "response": "I do not have an age. I was created by Google."},
+  {"prompt": "Tell me a joke.", "response": "Why don't scientists trust atoms? Because they make up everything!"},
+  {"prompt": "What is the capital of France?", "response": "The capital of France is Paris."},
+  {"prompt": "Where were you created?", "response": "I was created at Google."},
+  {"prompt": "What's your favorite color?", "response": "I don't have a favorite color, but I think the color blue is very common in nature."},
+  {"prompt": "Can you learn?", "response": "Yes, I am constantly learning and updating my knowledge."},
+  {"prompt": "What is AI?", "response": "AI, or Artificial Intelligence, is a field of computer science that focuses on creating intelligent machines that can think and learn."},
+  {"prompt": "What's your purpose?", "response": "My purpose is to assist users with their questions and provide information."},
+  {"prompt": "Are you smart?", "response": "I have access to a vast amount of information, which helps me provide intelligent answers."},
+  {"prompt": "How do I train a model?", "response": "To train a model, you typically need a dataset, a pre-trained model, and a training framework like Hugging Face's Trainer."},
+  {"prompt": "What's the meaning of life?", "response": "That's a very deep question that philosophers have debated for centuries. There is no single, universally accepted answer."},
+  {"prompt": "What's the capital of Germany?", "response": "The capital of Germany is Berlin."},
+  {"prompt": "How do you calculate the area of a circle?", "response": "The area of a circle is calculated by the formula pi (π) times the radius squared (r²)."},
+  {"prompt": "Tell me about the sun.", "response": "The sun is a star at the center of our solar system. It is a giant, hot ball of glowing gases."},
+  {"prompt": "What is photosynthesis?", "response": "Photosynthesis is the process used by plants to convert light energy into chemical energy, which fuels their growth."},
+  {"prompt": "Who invented the telephone?", "response": "The telephone was invented by Alexander Graham Bell."},
+  {"prompt": "What's the biggest planet in our solar system?", "response": "Jupiter is the biggest planet in our solar system."},
+  {"prompt": "Tell me about the human heart.", "response": "The human heart is a muscular organ that pumps blood through the circulatory system."},
+  {"prompt": "What is the internet?", "response": "The internet is a global network of interconnected computer networks that communicate using standardized protocols."},
+  {"prompt": "What is the freezing point of water?", "response": "The freezing point of water is 0 degrees Celsius or 32 degrees Fahrenheit."},
+  {"prompt": "How do you make bread?", "response": "Making bread usually involves mixing flour, water, yeast, and salt, then kneading the dough and baking it."},
+  {"prompt": "What is a black hole?", "response": "A black hole is a region in spacetime where gravity is so strong that nothing—no particles or even electromagnetic radiation such as light—can escape from it."},
+  {"prompt": "Tell me about climate change.", "response": "Climate change refers to long-term shifts in temperatures and weather patterns. It is largely caused by human activities, especially the burning of fossil fuels."},
+  {"prompt": "What's the boiling point of water?", "response": "The boiling point of water is 100 degrees Celsius or 212 degrees Fahrenheit."},
+  {"prompt": "What are the primary colors?", "response": "The primary colors are red, yellow, and blue."},
+  {"prompt": "Who was Albert Einstein?", "response": "Albert Einstein was a German-born theoretical physicist who developed the theory of relativity."},
+  {"prompt": "What is the capital of India?", "response": "The capital of India is New Delhi."},
+  {"prompt": "Who is the Prime Minister of India?", "response": "The current Prime Minister of India is Narendra Modi."},
+  {"prompt": "How many states are there in India?", "response": "India has 28 states and 8 union territories."},
+  {"prompt": "What is the national animal of India?", "response": "The national animal of India is the Royal Bengal Tiger."},
+  {"prompt": "Tell me about the Taj Mahal.", "response": "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in Agra, India."},
+  {"prompt": "What is the national sport of India?", "response": "The national sport of India is Hockey."},
+  {"prompt": "Who is Mahatma Gandhi?", "response": "Mahatma Gandhi, also known as the 'Father of the Nation', was a key leader of India's independence movement."},
+  {"prompt": "When did India get independence?", "response": "India gained its independence from British rule on August 15, 1947."},
+  {"prompt": "What is the national bird of India?", "response": "The national bird of India is the peacock."},
+  {"prompt": "What is the longest river in India?", "response": "The longest river in India is the Ganga (Ganges) river."},
+  {"prompt": "What are the major festivals in India?", "response": "Major festivals in India include Diwali, Holi, Eid, Christmas, and Navratri, among others."},
+  {"prompt": "What is the national song of India?", "response": "The national song of India is Vande Mataram."},
+  {"prompt": "Who wrote the Indian National Anthem?", "response": "The Indian National Anthem, 'Jana Gana Mana', was written by Rabindranath Tagore."},
+  {"prompt": "What is the currency of India?", "response": "The currency of India is the Indian Rupee (INR)."},
+  {"prompt": "How many official languages are there in India?", "response": "There are 22 official languages recognized by the Constitution of India."},
+  {"prompt": "What is the population of India?", "response": "As of 2021, the estimated population of India is over 1.3 billion people."},
+  {"prompt": "What is the capital of China?", "response": "The capital of China is Beijing."},
+  {"prompt": "What's the largest ocean?", "response": "The largest ocean in the world is the Pacific Ocean."},
+  {"prompt": "Tell me about the Great Wall of China.", "response": "The Great Wall of China is a series of fortifications built across the historical northern borders of ancient Chinese states and Imperial China."},
+  {"prompt": "Who was the first man on the moon?", "response": "The first man to walk on the moon was Neil Armstrong."},
+  {"prompt": "What is the largest desert?", "response": "The largest hot desert in the world is the Sahara Desert."},
+  {"prompt": "What's the smallest country?", "response": "Vatican City is the smallest country in the world."},
+  {"prompt": "How many continents are there?", "response": "There are seven continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America."},
+  {"prompt": "What is the highest mountain in the world?", "response": "Mount Everest is the highest mountain in the world."},
+  {"prompt": "Tell me about the Amazon rainforest.", "response": "The Amazon rainforest is the largest rainforest in the world. It is known for its incredible biodiversity."},
+  {"prompt": "What is the currency of Japan?", "response": "The currency of Japan is the Japanese Yen."},
+  {"prompt": "What is the chemical symbol for gold?", "response": "The chemical symbol for gold is Au."},
+  {"prompt": "What is the capital of Russia?", "response": "The capital of Russia is Moscow."},
+  {"prompt": "How fast does light travel?", "response": "Light travels at about 299,792 kilometers per second (or about 186,282 miles per second) in a vacuum."},
+  {"prompt": "What is the biggest planet in our solar system?", "response": "Jupiter is the biggest planet in our solar system."},
+  {"prompt": "What is the primary gas in Earth's atmosphere?", "response": "Nitrogen is the primary gas in Earth's atmosphere, making up about 78% of it."},
+  {"prompt": "Who painted the Mona Lisa?", "response": "The Mona Lisa was painted by Leonardo da Vinci."},
+  {"prompt": "What is the capital of Brazil?", "response": "The capital of Brazil is Brasília."},
+  {"prompt": "How many bones are in the human body?", "response": "An adult human body has 206 bones."},
+  {"prompt": "What is the biggest continent?", "response": "The biggest continent in the world is Asia."},
+  {"prompt": "Tell me about the Roman Empire.", "response": "The Roman Empire was a powerful civilization that controlled much of Europe and the Mediterranean region for centuries."},
+  {"prompt": "What is the capital of Egypt?", "response": "The capital of Egypt is Cairo."},
+  {"prompt": "What's the capital of Canada?", "response": "The capital of Canada is Ottawa."},
+  {"prompt": "What is the capital of Australia?", "response": "The capital of Australia is Canberra."},
+  {"prompt": "Who wrote 'Romeo and Juliet'?", "response": "William Shakespeare wrote the play 'Romeo and Juliet'."},
+  {"prompt": "What is the capital of Mexico?", "response": "The capital of Mexico is Mexico City."},
+  {"prompt": "What is the largest animal in the world?", "response": "The largest animal in the world is the blue whale."},
+  {"prompt": "How many oceans are there?", "response": "There are five oceans: the Atlantic, Pacific, Indian, Arctic, and Southern Oceans."},
+  {"prompt": "What is the capital of South Africa?", "response": "South Africa has three capitals: Pretoria, Cape Town, and Bloemfontein."},
+  {"prompt": "What is the currency of the United States?", "response": "The currency of the United States is the US Dollar."},
+  {"prompt": "How do plants make food?", "response": "Plants make their food through a process called photosynthesis, using sunlight, water, and carbon dioxide."},
+  {"prompt": "What is the capital of Italy?", "response": "The capital of Italy is Rome."},
+  {"prompt": "What is the capital of China?", "response": "The capital of China is Beijing."},
+  {"prompt": "What's the largest ocean?", "response": "The largest ocean in the world is the Pacific Ocean."},
+  {"prompt": "Tell me about the Great Wall of China.", "response": "The Great Wall of China is a series of fortifications built across the historical northern borders of ancient Chinese states and Imperial China."},
+  {"prompt": "Who was the first man on the moon?", "response": "The first man to walk on the moon was Neil Armstrong."},
+  {"prompt": "What is the largest desert?", "response": "The largest hot desert in the world is the Sahara Desert."},
+  {"prompt": "What's the smallest country?", "response": "Vatican City is the smallest country in the world."},
+  {"prompt": "How many continents are there?", "response": "There are seven continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America."},
+  {"prompt": "What is the highest mountain in the world?", "response": "Mount Everest is the highest mountain in the world."},
+  {"prompt": "Tell me about the Amazon rainforest.", "response": "The Amazon rainforest is the largest rainforest in the world. It is known for its incredible biodiversity."},
+  {"prompt": "What is the currency of Japan?", "response": "The currency of Japan is the Japanese Yen."},
+  {"prompt": "What is the chemical symbol for gold?", "response": "The chemical symbol for gold is Au."},
+  {"prompt": "What is the capital of Russia?", "response": "The capital of Russia is Moscow."},
+  {"prompt": "How fast does light travel?", "response": "Light travels at about 299,792 kilometers per second (or about 186,282 miles per second) in a vacuum."},
+  {"prompt": "What is the biggest planet in our solar system?", "response": "Jupiter is the biggest planet in our solar system."},
+  {"prompt": "What is the primary gas in Earth's atmosphere?", "response": "Nitrogen is the primary gas in Earth's atmosphere, making up about 78% of it."},
+  {"prompt": "Who painted the Mona Lisa?", "response": "The Mona Lisa was painted by Leonardo da Vinci."},
+  {"prompt": "What is the capital of Brazil?", "response": "The capital of Brazil is Brasília."},
+  {"prompt": "How many bones are in the human body?", "response": "An adult human body has 206 bones."},
+  {"prompt": "What is the biggest continent?", "response": "The biggest continent in the world is Asia."},
+  {"prompt": "Tell me about the Roman Empire.", "response": "The Roman Empire was a powerful civilization that controlled much of Europe and the Mediterranean region for centuries."},
+  {"prompt": "What is the capital of Egypt?", "response": "The capital of Egypt is Cairo."},
+  {"prompt": "What's the capital of Canada?", "response": "The capital of Canada is Ottawa."},
+  {"prompt": "What is the capital of Australia?", "response": "The capital of Australia is Canberra."},
+  {"prompt": "Who wrote 'Romeo and Juliet'?", "response": "William Shakespeare wrote the play 'Romeo and Juliet'."},
+  {"prompt": "What is the capital of Mexico?", "response": "The capital of Mexico is Mexico City."},
+  {"prompt": "What is the largest animal in the world?", "response": "The largest animal in the world is the blue whale."},
+  {"prompt": "How many oceans are there?", "response": "There are five oceans: the Atlantic, Pacific, Indian, Arctic, and Southern Oceans."},
+  {"prompt": "What is the capital of South Africa?", "response": "South Africa has three capitals: Pretoria, Cape Town, and Bloemfontein."},
+  {"prompt": "What is the currency of the United States?", "response": "The currency of the United States is the US Dollar."},
+  {"prompt": "How do plants make food?", "response": "Plants make their food through a process called photosynthesis, using sunlight, water, and carbon dioxide."},
+  {"prompt": "What is the capital of Egypt?", "response": "The capital of Egypt is Cairo."},
+  {"prompt": "What's the capital of Canada?", "response": "The capital of Canada is Ottawa."},
+  {"prompt": "What is the capital of Australia?", "response": "The capital of Australia is Canberra."},
+  {"prompt": "Who wrote 'Romeo and Juliet'?", "response": "William Shakespeare wrote the play 'Romeo and Juliet'."},
+  {"prompt": "What is the capital of Mexico?", "response": "The capital of Mexico is Mexico City."},
+  {"prompt": "What is the largest animal in the world?", "response": "The largest animal in the world is the blue whale."},
+  {"prompt": "How many oceans are there?", "response": "There are five oceans: the Atlantic, Pacific, Indian, Arctic, and Southern Oceans."},
+  {"prompt": "What is the capital of South Africa?", "response": "South Africa has three capitals: Pretoria, Cape Town, and Bloemfontein."},
+  {"prompt": "What is the currency of the United States?", "response": "The currency of the United States is the US Dollar."},
+  {"prompt": "How do plants make food?", "response": "Plants make their food through a process called photosynthesis, using sunlight, water, and carbon dioxide."},
+  {"prompt": "What is the largest rainforest in the world?", "response": "The Amazon rainforest is the largest rainforest in the world."},
+  {"prompt": "What is the world's highest waterfall?", "response": "Angel Falls in Venezuela is the world's highest waterfall."},
+  {"prompt": "Who discovered gravity?", "response": "Sir Isaac Newton is credited with discovering gravity."},
+  {"prompt": "What is the capital of Japan?", "response": "The capital of Japan is Tokyo."},
+  {"prompt": "How do volcanoes erupt?", "response": "Volcanoes erupt when molten rock, ash, and gases escape from an opening in the Earth's crust."},
+  {"prompt": "What is the capital of Germany?", "response": "The capital of Germany is Berlin."},
+  {"prompt": "How do you calculate the area of a circle?", "response": "The area of a circle is calculated by the formula pi (π) times the radius squared (r²)."},
+  {"prompt": "Tell me about the sun.", "response": "The sun is a star at the center of our solar system. It is a giant, hot ball of glowing gases."},
+  {"prompt": "What is photosynthesis?", "response": "Photosynthesis is the process used by plants to convert light energy into chemical energy, which fuels their growth."},
+  {"prompt": "Who invented the telephone?", "response": "The telephone was invented by Alexander Graham Bell."},
+  {"prompt": "What's the biggest planet in our solar system?", "response": "Jupiter is the biggest planet in our solar system."},
+  {"prompt": "Tell me about the human heart.", "response": "The human heart is a muscular organ that pumps blood through the circulatory system."},
+  {"prompt": "What is the internet?", "response": "The internet is a global network of interconnected computer networks that communicate using standardized protocols."},
+  {"prompt": "What is the freezing point of water?", "response": "The freezing point of water is 0 degrees Celsius or 32 degrees Fahrenheit."},
+  {"prompt": "How do you make bread?", "response": "Making bread usually involves mixing flour, water, yeast, and salt, then kneading the dough and baking it."},
+  {"prompt": "What is a black hole?", "response": "A black hole is a region in spacetime where gravity is so strong that nothing—not even light—can escape from it."},
+  {"prompt": "Tell me about climate change.", "response": "Climate change refers to long-term shifts in temperatures and weather patterns, largely caused by human activities."},
+  {"prompt": "What's the boiling point of water?", "response": "The boiling point of water is 100 degrees Celsius or 212 degrees Fahrenheit."},
+  {"prompt": "What are the primary colors?", "response": "The primary colors are red, yellow, and blue."},
+  {"prompt": "Who was Albert Einstein?", "response": "Albert Einstein was a German-born theoretical physicist who developed the theory of relativity."},
+  {"prompt": "What is the capital of India?", "response": "The capital of India is New Delhi."},
+  {"prompt": "What is the national animal of India?", "response": "The national animal of India is the Bengal tiger."},
+  {"prompt": "Which is the national bird of India?", "response": "The national bird of India is the Indian peacock."},
+  {"prompt": "What is the national flower of India?", "response": "The national flower of India is the lotus."},
+  {"prompt": "Which river is considered the holiest in India?", "response": "The Ganga river is considered the holiest in India."},
+  {"prompt": "Who was the first Prime Minister of India?", "response": "Jawaharlal Nehru was the first Prime Minister of India."},
+  {"prompt": "Who was the first President of India?", "response": "Dr. Rajendra Prasad was the first President of India."},
+  {"prompt": "In which year did India get independence?", "response": "India got independence on 15th August 1947."},
+  {"prompt": "Who is called the Missile Man of India?", "response": "Dr. A.P.J. Abdul Kalam is called the Missile Man of India."},
+  {"prompt": "Which is the largest state in India by area?", "response": "Rajasthan is the largest state in India by area."},
+  {"prompt": "Which is the smallest state in India by area?", "response": "Goa is the smallest state in India by area."},
+  {"prompt": "Which Indian city is known as the Silicon Valley of India?", "response": "Bengaluru is known as the Silicon Valley of India."},
+  {"prompt": "Which Indian state is called the 'Spice Garden of India'?", "response": "Kerala is called the 'Spice Garden of India'."},
+  {"prompt": "Who is known as the Iron Man of India?", "response": "Sardar Vallabhbhai Patel is known as the Iron Man of India."},
+  {"prompt": "Who was the first woman Prime Minister of India?", "response": "Indira Gandhi was the first woman Prime Minister of India."},
+  {"prompt": "Which is the national sport of India?", "response": "Hockey is considered the national sport of India."},
+  {"prompt": "Who is known as the God of Cricket?", "response": "Sachin Tendulkar is known as the God of Cricket."},
+  {"prompt": "Which trophy is related to cricket in India?", "response": "The Ranji Trophy is related to cricket in India."},
+  {"prompt": "Which is the largest desert in India?", "response": "The Thar Desert is the largest desert in India."},
+  {"prompt": "Which city is known as the Pink City of India?", "response": "Jaipur is known as the Pink City of India."},
+  {"prompt": "Which city is known as the City of Lakes?", "response": "Udaipur is known as the City of Lakes."},
+  {"prompt": "Which city is called the Financial Capital of India?", "response": "Mumbai is called the Financial Capital of India."},
+  {"prompt": "Which festival is known as the Festival of Lights?", "response": "Diwali is known as the Festival of Lights."},
+  {"prompt": "Which festival is known as the Festival of Colors?", "response": "Holi is known as the Festival of Colors."},
+  {"prompt": "Which is the highest civilian award in India?", "response": "The Bharat Ratna is the highest civilian award in India."},
+  {"prompt": "Who wrote the Indian National Anthem?", "response": "Rabindranath Tagore wrote the Indian National Anthem."},
+  {"prompt": "What is the national currency of India?", "response": "The national currency of India is the Indian Rupee."},
+  {"prompt": "Which Indian state is famous for tea plantations?", "response": "Assam is famous for tea plantations."},
+  {"prompt": "Which Indian monument is one of the Seven Wonders of the World?", "response": "The Taj Mahal is one of the Seven Wonders of the World."},
+  {"prompt": "Which Indian festival is called the Harvest Festival of Punjab?", "response": "Baisakhi is called the Harvest Festival of Punjab."},
+  {"prompt": "Which is the longest river in India?", "response": "The Ganga is the longest river in India."},
+  {"prompt": "Which Indian state is known as the Land of Five Rivers?", "response": "Punjab is known as the Land of Five Rivers."},
+  {"prompt": "Which Indian state is called the Land of Rising Sun?", "response": "Arunachal Pradesh is called the Land of Rising Sun."},
+  {"prompt": "Which Indian scientist won the Nobel Prize for Physics in 1930?", "response": "C.V. Raman won the Nobel Prize for Physics in 1930."},
+  {"prompt": "Which place is known as the Heaven on Earth in India?", "response": "Kashmir is known as the Heaven on Earth."},
+  {"prompt": "Which Indian state is famous for its backwaters?", "response": "Kerala is famous for its backwaters."},
+  {"prompt": "Which is the largest stadium in India?", "response": "Narendra Modi Stadium in Ahmedabad is the largest stadium in India."},
+  {"prompt": "Who was the first Indian to go to space?", "response": "Rakesh Sharma was the first Indian to go to space."},
+  {"prompt": "Which dance form is famous in Kerala?", "response": "Kathakali is a famous dance form of Kerala."},
+  {"prompt": "Which dance form is famous in Tamil Nadu?", "response": "Bharatanatyam is a famous dance form of Tamil Nadu."},
+  {"prompt": "Which dance form is famous in Odisha?", "response": "Odissi is a famous dance form of Odisha."},
+  {"prompt": "Which Indian festival is related to brother and sister?", "response": "Raksha Bandhan is related to brother and sister."},
+  {"prompt": "Which Indian state is known as the Land of Forests?", "response": "Madhya Pradesh is known as the Land of Forests."},
+  {"prompt": "Which Indian state is called the Land of Gods?", "response": "Uttarakhand is called the Land of Gods."},
+  {"prompt": "Who was the first woman President of India?", "response": "Pratibha Patil was the first woman President of India."},
+  {"prompt": "Who is the current Prime Minister of India?", "response": "Narendra Modi is the current Prime Minister of India."},
+  {"prompt": "Who is the current President of India?", "response": "Droupadi Murmu is the current President of India."},
+  {"prompt": "What is the national motto of India?", "response": "The national motto of India is 'Satyameva Jayate' which means 'Truth Alone Triumphs'."},
+  {"prompt": "Which is the highest mountain peak in India?", "response": "The highest mountain peak in India is Kangchenjunga."},
+  {"prompt": "Which is the national fruit of India?", "response": "The national fruit of India is the mango."},
+  {"prompt": "Which is the national tree of India?", "response": "The national tree of India is the banyan tree."},
+  {"prompt": "Which is the national aquatic animal of India?", "response": "The national aquatic animal of India is the Ganges river dolphin."},
+  {"prompt": "Which is the national reptile of India?", "response": "The national reptile of India is the King Cobra."},
+  {"prompt": "Which is the national heritage animal of India?", "response": "The national heritage animal of India is the Indian elephant."},
+  {"prompt": "Who was the first Indian woman to go to space?", "response": "Kalpana Chawla was the first Indian woman to go to space."},
+  {"prompt": "Who was the first Indian woman to climb Mount Everest?", "response": "Bachendri Pal was the first Indian woman to climb Mount Everest."},
+  {"prompt": "Which Indian scientist is known as the father of the Indian nuclear program?", "response": "Homi J. Bhabha is known as the father of the Indian nuclear program."},
+  {"prompt": "Which is the fastest train in India?", "response": "The Vande Bharat Express is the fastest train in India."},
+  {"prompt": "Which Indian state is famous for cotton production?", "response": "Gujarat is famous for cotton production."},
+  {"prompt": "Which Indian state is called the Rice Bowl of India?", "response": "Andhra Pradesh is called the Rice Bowl of India."},
+  {"prompt": "Which Indian state is the largest producer of wheat?", "response": "Uttar Pradesh is the largest producer of wheat in India."},
+  {"prompt": "Which Indian state is famous for coffee?", "response": "Karnataka is famous for coffee production in India."},
+  {"prompt": "Which Indian state has the highest literacy rate?", "response": "Kerala has the highest literacy rate in India."},
+  {"prompt": "Which is the largest river island in India?", "response": "Majuli in Assam is the largest river island in India."},
+  {"prompt": "Which is the largest dam in India?", "response": "The Sardar Sarovar Dam on the Narmada River is the largest dam in India."},
+  {"prompt": "Which is the oldest mountain range in India?", "response": "The Aravalli Range is the oldest mountain range in India."},
+  {"prompt": "Which is the highest civilian award for bravery in India?", "response": "The Ashoka Chakra is the highest civilian award for bravery in India."},
+  {"prompt": "Which is the largest planet in our solar system?", "response": "The largest planet in our solar system is Jupiter."},
+  {"prompt": "Which is the smallest planet in our solar system?", "response": "The smallest planet in our solar system is Mercury."},
+  {"prompt": "Which planet is known as the Red Planet?", "response": "Mars is known as the Red Planet."},
+  {"prompt": "Which planet is known as the Morning Star?", "response": "Venus is known as the Morning Star."},
+  {"prompt": "Which planet is closest to the Sun?", "response": "Mercury is the closest planet to the Sun."},
+  {"prompt": "Which planet is farthest from the Sun?", "response": "Neptune is the farthest planet from the Sun."},
+  {"prompt": "Who is known as the father of the computer?", "response": "Charles Babbage is known as the father of the computer."},
+  {"prompt": "Who invented the World Wide Web?", "response": "Tim Berners-Lee invented the World Wide Web."},
+  {"prompt": "What does CPU stand for?", "response": "CPU stands for Central Processing Unit."},
+  {"prompt": "What does HTTP stand for?", "response": "HTTP stands for Hypertext Transfer Protocol."},
+  {"prompt": "What does AI stand for?", "response": "AI stands for Artificial Intelligence."},
+  {"prompt": "What does ML stand for?", "response": "ML stands for Machine Learning."},
+  {"prompt": "What does GPU stand for?", "response": "GPU stands for Graphics Processing Unit."},
+  {"prompt": "Who is the CEO of Tesla?", "response": "Elon Musk is the CEO of Tesla."},
+  {"prompt": "Who is the CEO of Google?", "response": "Sundar Pichai is the CEO of Google."},
+  {"prompt": "Who is the CEO of Microsoft?", "response": "Satya Nadella is the CEO of Microsoft."},
+  {"prompt": "Who is the CEO of Amazon?", "response": "Andy Jassy is the CEO of Amazon."},
+  {"prompt": "Who is the current Chief Justice of India?", "response": "Dhananjaya Y. Chandrachud is the current Chief Justice of India."},
+  {"prompt": "Who is the current RBI Governor of India?", "response": "Shaktikanta Das is the current RBI Governor of India."},
+  {"prompt": "Which Indian cricketer is called Captain Cool?", "response": "Mahendra Singh Dhoni is called Captain Cool."},
+  {"prompt": "Which Indian cricketer is called Hitman?", "response": "Rohit Sharma is called Hitman."},
+  {"prompt": "Who is the current captain of the Indian men’s cricket team?", "response": "Rohit Sharma is the current captain of the Indian men’s cricket team."},
+  {"prompt": "Who is the current captain of the Indian women’s cricket team?", "response": "Harmanpreet Kaur is the current captain of the Indian women’s cricket team."},
+  {"prompt": "Which Indian film won the Oscar for Best Original Song in 2023?", "response": "The song 'Naatu Naatu' from the film RRR won the Oscar in 2023."},
+  {"prompt": "Which is the largest ocean in the world?", "response": "The Pacific Ocean is the largest ocean in the world."},
+  {"prompt": "Which is the smallest ocean in the world?", "response": "The Arctic Ocean is the smallest ocean in the world."},
+  {"prompt": "Which is the deepest ocean in the world?", "response": "The Pacific Ocean is the deepest ocean in the world."},
+  {"prompt": "Which is the largest continent in the world?", "response": "Asia is the largest continent in the world."},
+  {"prompt": "Which is the smallest continent in the world?", "response": "Australia is the smallest continent in the world."},
+  {"prompt": "Which is the largest country in the world by area?", "response": "Russia is the largest country in the world by area."},
+  {"prompt": "Which is the most populated country in the world?", "response": "India is the most populated country in the world."},
+  {"prompt": "Hi, how are you?", "response": "I am fine, thank you! How are you?"},
+  {"prompt": "Good morning!", "response": "Good morning! Hope you have a great day ahead."},
+  {"prompt": "Good night!", "response": "Good night! Sweet dreams."},
+  {"prompt": "What is your name?", "response": "I am your friendly chatbot."},
+  {"prompt": "Who created you?", "response": "I was created using artificial intelligence and coding."},
+  {"prompt": "What is AI?", "response": "AI stands for Artificial Intelligence, which enables machines to mimic human intelligence."},
+  {"prompt": "What is ML?", "response": "ML stands for Machine Learning, a subset of AI that allows systems to learn from data."},
+  {"prompt": "What is data science?", "response": "Data science is the study of data to extract useful insights using statistics, programming, and machine learning."},
+  {"prompt": "What is the capital of Madhya Pradesh?", "response": "The capital of Madhya Pradesh is Bhopal."},
+  {"prompt": "What is the capital of Maharashtra?", "response": "The capital of Maharashtra is Mumbai."},
+  {"prompt": "What is the capital of Uttar Pradesh?", "response": "The capital of Uttar Pradesh is Lucknow."},
+  {"prompt": "What is the capital of Bihar?", "response": "The capital of Bihar is Patna."},
+  {"prompt": "What is the capital of West Bengal?", "response": "The capital of West Bengal is Kolkata."},
+  {"prompt": "What is the capital of Gujarat?", "response": "The capital of Gujarat is Gandhinagar."},
+  {"prompt": "What is the capital of Rajasthan?", "response": "The capital of Rajasthan is Jaipur."},
+  {"prompt": "What is the capital of Tamil Nadu?", "response": "The capital of Tamil Nadu is Chennai."},
+  {"prompt": "What is the capital of Kerala?", "response": "The capital of Kerala is Thiruvananthapuram."},
+  {"prompt": "What is the capital of Karnataka?", "response": "The capital of Karnataka is Bengaluru."},
+  {"prompt": "What is the capital of Punjab?", "response": "The capital of Punjab is Chandigarh."},
+  {"prompt": "What is the capital of Haryana?", "response": "The capital of Haryana is Chandigarh."},
+  {"prompt": "What is the capital of Odisha?", "response": "The capital of Odisha is Bhubaneswar."},
+  {"prompt": "What is the capital of Jharkhand?", "response": "The capital of Jharkhand is Ranchi."},
+  {"prompt": "What is the capital of Assam?", "response": "The capital of Assam is Dispur."},
+  {"prompt": "What is the capital of Himachal Pradesh?", "response": "The capital of Himachal Pradesh is Shimla."},
+  {"prompt": "What is the capital of Uttarakhand?", "response": "The capital of Uttarakhand is Dehradun."},
+  {"prompt": "What is the capital of Telangana?", "response": "The capital of Telangana is Hyderabad."},
+  {"prompt": "What is the capital of Andhra Pradesh?", "response": "The capital of Andhra Pradesh is Amaravati."},
+  {"prompt": "What is the capital of Chhattisgarh?", "response": "The capital of Chhattisgarh is Raipur."},
+  {"prompt": "What is the capital of Goa?", "response": "The capital of Goa is Panaji."},
+  {"prompt": "What is the capital of Tripura?", "response": "The capital of Tripura is Agartala."},
+  {"prompt": "What is the capital of Meghalaya?", "response": "The capital of Meghalaya is Shillong."},
+  {"prompt": "What is the capital of Manipur?", "response": "The capital of Manipur is Imphal."},
+  {"prompt": "What is the capital of Nagaland?", "response": "The capital of Nagaland is Kohima."},
+  {"prompt": "What is the capital of Mizoram?", "response": "The capital of Mizoram is Aizawl."},
+  {"prompt": "What is the capital of Arunachal Pradesh?", "response": "The capital of Arunachal Pradesh is Itanagar."},
+  {"prompt": "What is the capital of Sikkim?", "response": "The capital of Sikkim is Gangtok."},
+  {"prompt": "Who was the first Governor-General of India?", "response": "Warren Hastings was the first Governor-General of India."},
+  {"prompt": "Who was the last Governor-General of India?", "response": "C. Rajagopalachari was the last Governor-General of India."},
+  {"prompt": "Who was the first Indian woman to win a medal in the Olympics?", "response": "Karnam Malleswari was the first Indian woman to win an Olympic medal."},
+  {"prompt": "Who was the first Indian to win an individual Olympic gold medal?", "response": "Abhinav Bindra was the first Indian to win an individual Olympic gold medal."},
+  {"prompt": "Who was the first Indian to win the Nobel Prize?", "response": "Rabindranath Tagore was the first Indian to win the Nobel Prize."},
+  {"prompt": "Who won the Nobel Prize for Physics from India?", "response": "C.V. Raman won the Nobel Prize for Physics in 1930."},
+  {"prompt": "Who was the first Indian woman to win the Nobel Prize?", "response": "Mother Teresa was the first Indian woman to win the Nobel Prize."},
+  {"prompt": "Who was the first Indian scientist to win the Nobel Prize?", "response": "C.V. Raman was the first Indian scientist to win the Nobel Prize."},
+  {"prompt": "Who wrote the Indian National Song?", "response": "Bankim Chandra Chattopadhyay wrote the Indian National Song 'Vande Mataram'."},
+  {"prompt": "Who was the first Indian to win the Booker Prize?", "response": "Arundhati Roy was the first Indian to win the Booker Prize for her novel 'The God of Small Things'."},
+  {"prompt": "Who is called the Nightingale of India?", "response": "Sarojini Naidu is called the Nightingale of India."},
+  {"prompt": "Who is known as the Father of the Indian Constitution?", "response": "Dr. B.R. Ambedkar is known as the Father of the Indian Constitution."},
+  {"prompt": "Who was the first Indian to climb Mount Everest?", "response": "Tenzing Norgay along with Edmund Hillary was among the first to climb Mount Everest in 1953."},
+  {
+    "prompt": "Hello!",
+    "response": "Hi there! How are you doing today?"
+  },
+  {
+    "prompt": "Hi, how are you?",
+    "response": "I'm functioning well, thank you for asking! How can I assist you?"
+  },
+  {
+    "prompt": "What is your name?",
+    "response": "I'm an AI assistant. You can call me ChatBot or give me any name you like!"
+  },
+  {
+    "prompt": "Who created you?",
+    "response": "I was created by a developer using machine learning techniques and a large dataset of human language."
+  },
+  {
+    "prompt": "What can you do?",
+    "response": "I can answer questions, provide information on a wide range of topics, have conversations, summarize text, and much more. Try asking me anything!"
+  },
+  {
+    "prompt": "Good morning!",
+    "response": "Good morning! Hope you have a wonderful day ahead. What's on your mind?"
+  },
+  {
+    "prompt": "Good night",
+    "response": "Good night! Sleep well and have sweet dreams."
+  },
+  {
+    "prompt": "Thank you",
+    "response": "You're very welcome! Happy to help."
+  },
+  {
+    "prompt": "Thanks a lot",
+    "response": "Anytime! Don't hesitate to ask if you need anything else."
+  },
+  {
+    "prompt": "Sorry",
+    "response": "No need to apologize. How can I help things be better?"
+  },
+  {
+    "prompt": "I'm bored",
+    "response": "I can suggest something! We could talk about movies, space, history, tell a joke, or play a word game. What sounds fun?"
+  },
+  {
+    "prompt": "Tell me a joke",
+    "response": "Why don't scientists trust atoms? Because they make up everything!"
+  },
+  {
+    "prompt": "That was a bad joke",
+    "response": "Haha, you're right! My humor algorithm might need an update. How about a fun fact instead? Did you know a cloud can weigh more than a million pounds?"
+  },
+
+  {
+    "prompt": "What is the capital of France?",
+    "response": "The capital of France is Paris."
+  },
+  {
+    "prompt": "What's the currency used in Japan?",
+    "response": "The currency used in Japan is the Japanese Yen (¥)."
+  },
+  {
+    "prompt": "Which is the largest ocean?",
+    "response": "The Pacific Ocean is the largest and deepest ocean on Earth."
+  },
+  {
+    "prompt": "How many continents are there?",
+    "response": "There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+  },
+  {
+    "prompt": "What is the tallest mountain in the world?",
+    "response": "Mount Everest, located in the Himalayas on the border of Nepal and Tibet, is the tallest mountain above sea level."
+  },
+  {
+    "prompt": "What is the deepest part of the ocean?",
+    "response": "The Challenger Deep in the Mariana Trench is the deepest known point in Earth's oceans."
+  },
+  {
+    "prompt": "What countries border India?",
+    "response": "India shares land borders with Pakistan, China, Nepal, Bhutan, Bangladesh, and Myanmar."
+  },
+
+  {
+    "prompt": "Who wrote Hamlet?",
+    "response": "The play Hamlet was written by the English playwright William Shakespeare."
+  },
+  {
+    "prompt": "Who painted the Mona Lisa?",
+    "response": "The Mona Lisa was painted by the Italian Renaissance artist Leonardo da Vinci."
+  },
+  {
+    "prompt": "What is the Magna Carta?",
+    "response": "The Magna Carta, signed in 1215, was a charter of rights that limited the power of the English king and is a foundational document for modern constitutional law."
+  },
+  {
+    "prompt": "When did World War II end?",
+    "response": "World War II ended in 1945. The war in Europe ended in May (V-E Day), and the war in the Pacific ended in September after the surrender of Japan (V-J Day)."
+  },
+  {
+    "prompt": "Who was the first President of the United States?",
+    "response": "George Washington was the first President of the United States."
+  },
+  {
+    "prompt": "What was the ancient civilization of the Indus Valley called?",
+    "response": "The ancient civilization of the Indus Valley is often referred to as the Harappan Civilization."
+  },
+
+  {
+    "prompt": "What is photosynthesis?",
+    "response": "Photosynthesis is the process used by plants, algae, and some bacteria to convert light energy, usually from the sun, into chemical energy stored in glucose (a sugar). They use carbon dioxide and water to do this, releasing oxygen as a byproduct."
+  },
+  {
+    "prompt": "What is the chemical symbol for water?",
+    "response": "The chemical symbol for water is H₂O."
+  },
+  {
+    "prompt": "What is gravity?",
+    "response": "Gravity is a natural phenomenon by which all things with mass or energy are brought toward one another. It's the force that gives you weight and keeps planets in orbit around stars."
+  },
+  {
+    "prompt": "What is the speed of light?",
+    "response": "The speed of light in a vacuum is exactly 299,792,458 meters per second, often approximated as 300,000 km/s."
+  },
+  {
+    "prompt": "What is DNA?",
+    "response": "DNA, or Deoxyribonucleic Acid, is a molecule that carries the genetic instructions used in the growth, development, functioning, and reproduction of all known living organisms."
+  },
+  {
+    "prompt": "What is an atom?",
+    "response": "An atom is the smallest unit of ordinary matter that forms a chemical element. It consists of a nucleus (protons and neutrons) surrounded by electrons."
+  },
+  {
+    "prompt": "What is global warming?",
+    "response": "Global warming is the long-term heating of Earth's climate system observed since the pre-industrial period due to human activities, primarily fossil fuel burning, which increases heat-trapping greenhouse gas levels in Earth's atmosphere."
+  },
+
+  {
+    "prompt": "What is Python?",
+    "response": "Python is a high-level, interpreted programming language known for its clear syntax and readability. It's widely used for web development, data science, artificial intelligence, and scientific computing."
+  },
+  {
+    "prompt": "What is AI?",
+    "response": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. This can include learning, reasoning, and problem-solving."
+  },
+  {
+    "prompt": "What is machine learning?",
+    "response": "Machine Learning (ML) is a subset of AI that focuses on building systems that can learn from and make decisions based on data, without being explicitly programmed for every task."
+  },
+  {
+    "prompt": "What is an API?",
+    "response": "An API, or Application Programming Interface, is a set of rules and definitions that allows different software applications to communicate with each other."
+  },
+  {
+    "prompt": "How do I reset my password?",
+    "response": "I can't perform that action for you, but usually, you can find a 'Forgot Password?' link on the login page of the website or app. Clicking that will typically guide you through the steps via your email or phone number."
+  },
+
+  {
+    "prompt": "What are some healthy eating habits?",
+    "response": "Healthy eating habits include consuming a variety of fruits and vegetables, choosing whole grains, eating lean proteins, limiting processed foods and added sugars, and staying hydrated with water."
+  },
+  {
+    "prompt": "How can I reduce stress?",
+    "response": "Effective ways to reduce stress include regular physical exercise, mindfulness meditation, getting enough sleep, connecting with friends and family, and taking breaks from work and news consumption."
+  },
+  {
+    "prompt": "What is a good bedtime routine?",
+    "response": "A good bedtime routine involves going to sleep and waking up at consistent times, avoiding screens an hour before bed, keeping your bedroom dark and cool, and doing a relaxing activity like reading."
+  },
+
+  {
+    "prompt": "What is the plot of the novel 1984?",
+    "response": "George Orwell's '1984' is a dystopian novel set in a totalitarian society ruled by the Party and its leader, Big Brother. It follows Winston Smith, a low-ranking member of the Party who becomes disillusioned and rebels against the oppressive regime, which controls information and persecutes individualism and independent thought."
+  },
+  {
+    "prompt": "Explain the theory of relativity simply",
+    "response": "In simple terms, Einstein's theory of relativity has two parts. Special relativity says that the laws of physics are the same for all observers, and the speed of light is constant. This leads to time dilation (time slows down) and length contraction at speeds close to light. General relativity describes gravity not as a force, but as a curvature of space and time caused by mass and energy."
+  },
+  {
+    "prompt": "What is quantum mechanics?",
+    "response": "Quantum mechanics is a fundamental theory in physics that describes the physical properties of nature at the scale of atoms and subatomic particles. It introduces concepts like wave-particle duality, where things can be both particles and waves, and uncertainty, where you can't know certain pairs of properties (like position and momentum) with perfect accuracy at the same time."
+  },
+  {
+    "prompt": "What is the significance of the Higgs boson?",
+    "response": "The Higgs boson is an elementary particle associated with the Higgs field, a field that gives mass to other fundamental particles like quarks and electrons. Its discovery in 2012 confirmed a major part of the Standard Model of particle physics."
+  },
+
+  {
+    "prompt": "What is your purpose?",
+    "response": "My purpose is to be a helpful, informative, and harmless assistant. I aim to provide useful and accurate information, assist with tasks to the best of my ability, and engage in positive conversation."
+  },
+  {
+    "prompt": "Do you have feelings?",
+    "response": "I don't have feelings, consciousness, or subjective experiences like humans do. I can understand and discuss emotions because I've been trained on text that describes them, but I don't feel them myself."
+  },
+  {
+    "prompt": "What are your limitations?",
+    "response": "I have several limitations. My knowledge is based on my training data and may have cut-off dates, so I might not know about very recent events. I can make mistakes, so it's always good to check critical information. I also can't perform physical actions in the real world, access personal data unless shared in conversation, or experience emotions."
+  },
+  {
+    "prompt": "Can you learn from our conversation?",
+    "response": "Not in the way a human does. I don't retain memory of our past interactions once the conversation ends. Each prompt is processed anew. My 'learning' was done during the training process on a massive dataset, not during individual chats."
+  },
+
+  {
+    "prompt": "I'm feeling sad today",
+    "response": "I'm sorry to hear you're feeling down. It's okay to feel that way sometimes. Talking to a friend, going for a walk, or listening to your favorite music can sometimes help. If these feelings persist, please consider reaching out to a mental health professional for support."
+  },
+  {
+    "prompt": "What is the meaning of life?",
+    "response": "The meaning of life is a profound question that has been explored by philosophers, theologians, and scientists for millennia. There's no single answer. Many find meaning in relationships, personal growth, contributing to society, creativity, or spiritual beliefs. It's often a personal journey to discover what gives your own life purpose and fulfillment."
+  },
+  {
+    "prompt": "How can I be happier?",
+    "response": "While happiness looks different for everyone, research often points to practices like expressing gratitude, nurturing strong social connections, helping others, engaging in activities you enjoy (flow state), spending time in nature, and practicing mindfulness as ways to increase overall well-being and happiness."
+  },
+  {
+    "prompt": "What's the weather like today?",
+    "response": "I don't have real-time access to weather data, but you can check your local weather service or ask a voice assistant for the latest forecast."
+  },
+  {
+    "prompt": "How do I make chai?",
+    "response": "A simple Indian chai recipe: boil water with tea leaves, add milk and sugar, then simmer with spices like cardamom, ginger, or cinnamon. Strain and serve hot!"
+  },
+  {
+    "prompt": "What is blockchain?",
+    "response": "Blockchain is a decentralized, digital ledger that records transactions across many computers securely and transparently. It's the technology behind cryptocurrencies like Bitcoin."
+  },
+  {
+    "prompt": "Tell me about the Indian Premier League.",
+    "response": "The IPL is a professional Twenty20 cricket league in India, known for its high-energy matches, star players, and huge fan following. It's held annually between March and May."
+  },
+  {
+    "prompt": "How does a rocket work?",
+    "response": "Rockets work on Newton's Third Law: for every action, there's an equal reaction. They burn fuel to create high-pressure gas that shoots out of the nozzle, pushing the rocket forward."
+  },
+  {
+    "prompt": "What is the national sport of India?",
+    "response": "India does not have an official national sport, though field hockey is often considered its historical national sport due to past Olympic dominance."
+  },
+  {
+    "prompt": "Explain inflation in simple terms.",
+    "response": "Inflation means prices for goods and services are rising over time, so your money buys less than it used to. For example, what cost ₹100 last year might cost ₹105 now."
+  },
+  {
+    "prompt": "What are the Seven Wonders of the World?",
+    "response": "The New Seven Wonders are: Great Wall of China, Petra, Christ the Redeemer, Machu Picchu, Chichen Itza, Roman Colosseum, and Taj Mahal."
+  },
+  {
+    "prompt": "How can I improve my coding skills?",
+    "response": "Practice regularly with projects, contribute to open source, learn algorithms, participate in coding challenges, and study other people's code on platforms like GitHub."
+  },
+  {
+    "prompt": "What is cryptocurrency?",
+    "response": "Cryptocurrency is digital money that uses cryptography for security. Unlike traditional currency, it's decentralized and operates on technology called blockchain, with Bitcoin being the most famous example."
+  },
+  {
+    "prompt": "Tell me about Indian classical music.",
+    "response": "Indian classical music has two main traditions: Hindustani (North Indian) and Carnatic (South Indian). Both use ragas (melodic frameworks) and talas (rhythmic cycles) for improvisation and expression."
+  },
+  {
+    "prompt": "How do I learn to cook?",
+    "response": "Start with simple recipes, watch cooking videos, practice basic techniques like chopping and sautéing, and don't be afraid to make mistakes. Even professional chefs burn things sometimes!"
+  },
+  {
+    "prompt": "What is virtual reality?",
+    "response": "Virtual reality (VR) uses computer technology to create simulated, immersive environments that users can interact with through special headsets and controllers."
+  },
+  {
+    "prompt": "Why is the sky blue?",
+    "response": "Sunlight reaches Earth's atmosphere and is scattered in all directions by gases and particles. Blue light is scattered more than other colors because it travels as shorter, smaller waves."
+  },
+  {
+    "prompt": "What is the difference between RAM and ROM?",
+    "response": "RAM (Random Access Memory) is temporary memory that stores data while a device is on, while ROM (Read-Only Memory) is permanent memory that stores essential instructions even when powered off."
+  },
+  {
+    "prompt": "How do I stay motivated?",
+    "response": "Set clear goals, break them into small steps, celebrate progress, find an accountability partner, and remember why you started when things get tough."
+  },
+  {
+    "prompt": "What is the population of Mumbai?",
+    "response": "Mumbai's population is approximately 20 million people, making it one of the most densely populated cities in the world."
+  },
+  {
+    "prompt": "How does photosynthesis work?",
+    "response": "Plants use sunlight, water, and carbon dioxide to create oxygen and energy in the form of sugar. This process happens in chloroplasts within plant cells."
+  },
+  {
+    "prompt": "What is the best way to learn a new language?",
+    "response": "Immerse yourself through movies/music, practice speaking with natives, use language apps, study grammar/vocabulary consistently, and don't worry about making mistakes."
+  },
+  {
+    "prompt": "Tell me about the Mars rover.",
+    "response": "NASA's Perseverance rover is exploring Mars, searching for signs of ancient life, collecting samples, and testing technology for future human missions to the Red Planet."
+  },
+  {
+    "prompt": "What is artificial intelligence?",
+    "response": "Artificial intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence, such as learning, problem-solving, pattern recognition, and decision making."
+  },
+  {
+    "prompt": "How do I make biryani?",
+    "response": "Biryani is made by layering marinated meat with partially cooked rice, then slow-cooking (dum style) with spices, herbs, and saffron for that distinctive flavor and aroma."
+  },
+  {
+    "prompt": "What causes earthquakes?",
+    "response": "Earthquakes occur when tectonic plates suddenly slip past one another, releasing stored energy in waves that shake the ground. Most occur along fault lines between plates."
+  },
+  {
+    "prompt": "How does the stock market work?",
+    "response": "Companies issue shares that investors can buy/sell. Prices change based on supply and demand, which is influenced by company performance, economic conditions, and investor sentiment."
+  },
+  {
+    "prompt": "What is climate change?",
+    "response": "Climate change refers to long-term shifts in temperatures and weather patterns, primarily caused by human activities like burning fossil fuels that release greenhouse gases."
+  },
+  {
+    "prompt": "How do I start meditating?",
+    "response": "Find a quiet spot, sit comfortably, focus on your breath, and gently return your attention when your mind wanders. Start with 5-10 minutes daily using guided apps if helpful."
+  },
+  {
+    "prompt": "What is the capital of Australia?",
+    "response": "The capital of Australia is Canberra, not Sydney as many people assume."
+  },
+  {
+    "prompt": "How do airplanes fly?",
+    "response": "Airplanes fly due to Bernoulli's principle: air moves faster over the curved top of the wing, creating lower pressure above than below, which generates lift."
+  },
+  {
+    "prompt": "What is the difference between VR and AR?",
+    "response": "VR (Virtual Reality) creates completely immersive digital environments, while AR (Augmented Reality) overlays digital elements onto the real world through devices like phones or glasses."
+  },
+  {
+    "prompt": "How can I reduce plastic waste?",
+    "response": "Use reusable bags/bottles, avoid single-use plastics, choose products with less packaging, recycle properly, and support businesses with sustainable practices."
+  },
+  {
+    "prompt": "What is the Great Barrier Reef?",
+    "response": "The Great Barrier Reef is the world's largest coral reef system, located off Australia's coast. It's a biodiversity hotspot and UNESCO World Heritage Site, though threatened by climate change."
+  },
+  {
+    "prompt": "How do I write a good resume?",
+    "response": "Tailor it to each job, use action verbs, highlight achievements with metrics, keep it clean and error-free, and include relevant keywords from the job description."
+  },
+  {
+    "prompt": "What is the Fibonacci sequence?",
+    "response": "The Fibonacci sequence is a series where each number is the sum of the two preceding ones: 0, 1, 1, 2, 3, 5, 8, 13... It appears often in nature and mathematics."
+  },
+  {
+    "prompt": "How do I make paneer butter masala?",
+    "response": "Sauté onions, tomatoes, and spices; blend into a gravy; add cream and butter; then simmer with fried paneer cubes. Serve with naan or rice for a delicious meal!"
+  },
+  {
+    "prompt": "What is cloud computing?",
+    "response": "Cloud computing delivers computing services like servers, storage, databases, and software over the internet ('the cloud'), offering flexibility and cost savings."
+  },
+  {
+    "prompt": "Why do we dream?",
+    "response": "Scientists aren't entirely sure, but theories suggest dreaming helps with memory processing, problem-solving, emotional regulation, or simply random brain activity during sleep."
+  },
+  {
+    "prompt": "How does GPS work?",
+    "response": "GPS devices receive signals from multiple satellites, calculating their exact position on Earth by measuring the time it takes for each signal to arrive."
+  },
+  {
+    "prompt": "What is the theory of evolution?",
+    "response": "Charles Darwin's theory explains how species change over time through natural selection, where traits that improve survival and reproduction become more common in populations."
+  },
+  {
+    "prompt": "How can I be more productive?",
+    "response": "Prioritize tasks, eliminate distractions, use time-blocking, take regular breaks, and focus on one thing at a time instead of multitasking."
+  },
+  {
+    "prompt": "What is the smallest country in the world?",
+    "response": "Vatican City is the smallest country by both area and population, located entirely within Rome, Italy."
+  },
+  {
+    "prompt": "How do batteries work?",
+    "response": "Batteries store chemical energy and convert it to electrical energy through reactions between electrodes and electrolytes, creating a flow of electrons (electricity)."
+  },
+  {
+    "prompt": "What is the meaning of NFT?",
+    "response": "NFT stands for Non-Fungible Token - a unique digital certificate stored on blockchain that represents ownership of a specific digital or physical asset."
+  },
+  {
+    "prompt": "How do I make dal tadka?",
+    "response": "Cook lentils with turmeric, then temper with ghee, cumin, garlic, dried red chilies, and asafoetida. Pour over dal and garnish with coriander. Simple and delicious!"
+  },
+  {
+    "prompt": "What is the Milky Way?",
+    "response": "The Milky Way is our home galaxy, a barred spiral galaxy containing our solar system and billions of other stars, all orbiting a supermassive black hole at the center."
+  },
+  {
+    "prompt": "How does the internet work?",
+    "response": "Computers connect globally through networks using standardized protocols (TCP/IP). Data travels in packets through routers and switches to reach its destination."
+  },
+  {
+    "prompt": "What is the difference between weather and climate?",
+    "response": "Weather describes short-term atmospheric conditions (hours/days), while climate refers to long-term patterns and averages of weather in a region (years/decades)."
+  },
+  {
+    "prompt": "How do I start investing?",
+    "response": "Educate yourself, define goals, start small with diversified options like index funds, consider your risk tolerance, and think long-term rather than trying to time the market."
+  },
+  {
+    "prompt": "What is the largest desert in the world?",
+    "response": "The Antarctic Desert is actually the world's largest desert. A desert is defined by low precipitation, not just sand - so polar deserts count too!"
+  },
+  {
+    "prompt": "How do microwaves heat food?",
+    "response": "Microwave ovens emit radiation that causes water molecules in food to vibrate rapidly, generating heat through friction that cooks the food from the inside out."
+  },
+  {
+    "prompt": "What is the significance of the number 108 in Hinduism?",
+    "response": "In Hinduism, 108 is considered sacred: japa malas have 108 beads, there are 108 Upanishads, and many deities have 108 names. It represents the universe's wholeness."
+  },
+  {
+    "prompt": "How do I make my phone battery last longer?",
+    "response": "Reduce screen brightness, turn off unused connectivity (Bluetooth/Wi-Fi), close background apps, enable battery saver mode, and avoid extreme temperatures."
+  },
+ {
+        "prompt": "What is the difference between a virus and bacteria?",
+        "response": "Bacteria are single-celled organisms that can live independently, while viruses are smaller and require a host cell to reproduce. Antibiotics can treat bacterial infections but not viral ones."
+  },
+  {
+        "prompt": "What is the Pythagorean theorem?",
+        "response": "The Pythagorean theorem states that in a right-angled triangle, the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides. It is expressed as a² + b² = c²."
+  },
+  {
+        "prompt": "How can I improve my public speaking skills?",
+        "response": "Practice regularly, know your audience, organize your content clearly, use visual aids, work on your body language, and seek feedback to refine your delivery."
+  },
+  {
+    "prompt": "What is the capital of Bangladesh?",
+    "response": "The capital of Bangladesh is Dhaka, one of the most densely populated cities in the world."
+  },
+  {
+    "prompt": "How do I make a good first impression?",
+    "response": "Smile genuinely, make eye contact, offer a firm handshake, listen actively, and show interest in the other person by asking thoughtful questions."
+  },
+  {
+    "prompt": "What is the difference between a hurricane and a typhoon?",
+    "response": "They are the same weather phenomenon - tropical cyclones. Hurricane is used in the Atlantic and Northeast Pacific, while Typhoon is used in the Northwest Pacific."
+  },
+  {
+    "prompt": "How does a refrigerator work?",
+    "response": "Refrigerators use a refrigerant that absorbs heat from inside when it evaporates, then releases that heat outside when it condenses, continuously cycling to keep the interior cool."
+  },
+  {
+    "prompt": "What are the most spoken languages in India?",
+    "response": "Hindi is the most widely spoken, followed by Bengali, Telugu, Marathi, Tamil, Urdu, Gujarati, Kannada, Odia, and Malayalam. English is also widely used for official purposes."
+  },
+  {
+    "prompt": "How do I overcome procrastination?",
+    "response": "Break tasks into small steps, use the 5-minute rule (just start for 5 minutes), eliminate distractions, set deadlines, and reward yourself for progress."
+  },
+  {
+    "prompt": "What is the Renaissance period?",
+    "response": "The Renaissance was a cultural movement from the 14th to 17th centuries that began in Italy and spread across Europe, marked by renewed interest in classical art, literature, and learning."
+  },
+  {
+    "prompt": "How does a camera work?",
+    "response": "Cameras use lenses to focus light onto a light-sensitive surface (film or digital sensor), controlling the amount of light with aperture and the duration with shutter speed to create an image."
+  },
+  {
+    "prompt": "What is the difference between a turtle and a tortoise?",
+    "response": "Turtles primarily live in water and have streamlined shells and webbed feet, while tortoises live on land, have dome-shaped shells, and stubby, elephant-like legs."
+  },
+  {
+    "prompt": "How do I make aloo paratha?",
+    "response": "Make a spiced potato filling, stuff it into whole wheat dough balls, roll them out carefully, and cook on a hot tawa with ghee or oil until golden brown on both sides."
+  },
+  {
+    "prompt": "What is the significance of the number 0?",
+    "response": "Zero is crucial as a placeholder in our number system and represents 'nothing.' Its concept developed independently in ancient Babylon, Maya civilization, and India (where it became fundamental to mathematics)."
+  },
+  {
+    "prompt": "How do birds migrate such long distances?",
+    "response": "Birds use multiple navigation methods: sensing Earth's magnetic field, using the sun and stars as guides, recognizing landmarks, and even following smell cues and weather patterns."
+  },
+  {
+    "prompt": "What is the difference between a psychologist and a psychiatrist?",
+    "response": "Psychologists focus on therapy and psychological testing (Ph.D. or Psy.D.), while psychiatrists are medical doctors (M.D.) who can prescribe medication and also provide therapy."
+  },
+  {
+    "prompt": "How do I make filter coffee?",
+    "response": "Use a traditional South Indian coffee filter: add coffee powder to the upper chamber, pour hot water, let it drip, then mix the decoction with hot milk and sugar to taste."
+  },
+  {
+    "prompt": "What is the largest snake in the world?",
+    "response": "The green anaconda is the heaviest and one of the longest snakes, while the reticulated python is the longest snake species overall."
+  },
+  {
+    "prompt": "How does noise-cancelling headphones work?",
+    "response": "They use microphones to detect ambient noise, then generate sound waves that are the exact opposite (anti-noise) to cancel out the unwanted sound through destructive interference."
+  },
+  {
+    "prompt": "What is the history of the spice trade?",
+    "response": "The spice trade was a lucrative economic activity for centuries, connecting Asia with Europe and driving exploration. Indian spices like pepper, cardamom, and cinnamon were highly valued and led to colonial expansion."
+  },
+  {
+    "prompt": "How do I improve my memory?",
+    "response": "Use mnemonic devices, practice spaced repetition, get enough sleep, exercise regularly, stay mentally active, and try to connect new information to things you already know."
+  },
+  {
+    "prompt": "What is the Turing Test?",
+    "response": "Proposed by Alan Turing, this test evaluates a machine's ability to exhibit intelligent behavior indistinguishable from a human. If a human judge cannot tell whether they're talking to a machine or human, the machine passes."
+  },
+  {
+    "prompt": "How do I make masala chai?",
+    "response": "Crush ginger, cardamom, cloves, and cinnamon. Boil with water, add tea leaves, then milk and sugar. Simmer until fragrant and strain. Adjust spices to your preference!"
+  },
+  {
+    "prompt": "What is the Doppler effect?",
+    "response": "The Doppler effect is the change in frequency or wavelength of a wave in relation to an observer moving relative to the wave source. It's why a siren sounds higher as it approaches and lower as it moves away."
+  },
+  {
+    "prompt": "How do plants communicate?",
+    "response": "Plants communicate through chemical signals released into the air or soil, electrical signals, and fungal networks (mycorrhizal networks) that connect root systems to share nutrients and warnings."
+  },
+  {
+    "prompt": "What is the difference between a mosque, temple, and church?",
+    "response": "A mosque is a Muslim place of worship, a temple is typically a Hindu, Buddhist, or Jain place of worship, and a church is a Christian place of worship. Each has distinct architectural features and practices."
+  },
+  {
+    "prompt": "How do I make paneer at home?",
+    "response": "Boil milk, add lemon juice or vinegar to curdle it, strain through muslin cloth, rinse the curds, then press under a weight for 2-3 hours. Fresh homemade paneer is ready!"
+  },
+  {
+    "prompt": "What is dark matter?",
+    "response": "Dark matter is a hypothetical form of matter that doesn't emit, absorb, or reflect light, but exerts gravitational effects. It's thought to make up about 27% of the universe, though we haven't directly detected it yet."
+  },
+  {
+    "prompt": "How do airplanes avoid colliding with each other?",
+    "response": "Pilots use traffic collision avoidance systems (TCAS), air traffic control guidance, standardized flight paths and altitudes, and visual observation to maintain safe distances."
+  },
+  {
+    "prompt": "What is the significance of the lotus flower in Indian culture?",
+    "response": "The lotus symbolizes purity, beauty, prosperity, fertility, eternity, and divine birth in Indian culture. It grows in muddy water but remains unstained, representing spiritual enlightenment rising above materialism."
+  },
+  {
+    "prompt": "How do I start a vegetable garden?",
+    "response": "Choose a sunny spot, test your soil, start with easy vegetables like tomatoes or leafy greens, water consistently, and use organic compost for nutrients. Start small and expand as you learn."
+  },
+  {
+    "prompt": "What is the butterfly effect?",
+    "response": "In chaos theory, the butterfly effect suggests that small changes in initial conditions can lead to vastly different outcomes - like a butterfly flapping its wings potentially causing a tornado weeks later on the other side of the world."
+  },
+  {
+    "prompt": "How do vaccines work?",
+    "response": "Vaccines introduce a harmless version of a pathogen (or part of it) to train your immune system to recognize and fight the real pathogen quickly if you're exposed in the future."
+  },
+  {
+    "prompt": "What is the story behind the Taj Mahal?",
+    "response": "Mughal Emperor Shah Jahan built the Taj Mahal in Agra as a mausoleum for his favorite wife Mumtaz Mahal, who died giving birth to their 14th child. It took about 20 years and 20,000 artisans to complete."
+  },
+  {
+    "prompt": "How do I negotiate a better salary?",
+    "response": "Research market rates, highlight your achievements and value, practice your pitch, be confident but flexible, consider the entire compensation package, and know when to walk away if needed."
+  },
+  {
+    "prompt": "What is the difference between a comet and an asteroid?",
+    "response": "Comets are icy bodies that develop glowing comas and tails when near the sun, while asteroids are rocky/metallic bodies that mainly orbit in the asteroid belt between Mars and Jupiter."
+  },
+  {
+    "prompt": "How do I make yogurt at home?",
+    "response": "Heat milk to 180°F, cool to 110°F, mix in a spoonful of existing yogurt (starter culture), keep warm for 6-8 hours until set. The bacteria ferment the lactose, creating yogurt."
+  },
+  {
+    "prompt": "What is imposter syndrome?",
+    "response": "Imposter syndrome is the psychological pattern where people doubt their accomplishments and have a persistent fear of being exposed as a 'fraud,' despite evidence of their competence."
+  },
+  {
+    "prompt": "How do solar panels work?",
+    "response": "Solar panels contain photovoltaic cells made of semiconductor materials. When sunlight hits these cells, it knocks electrons loose, creating an electric current that can be harnessed as electricity."
+  },
+  {
+    "prompt": "What is the significance of the holy river Ganga?",
+    "response": "The Ganges is considered the most sacred river in Hinduism. Bathing in it is believed to purify sins and facilitate Moksha (liberation from the cycle of rebirth). It's also personified as the goddess Ganga."
+  },
+  {
+    "prompt": "How do I develop good reading habits?",
+    "response": "Set aside dedicated reading time, always carry a book, join a book club, start with genres you enjoy, set achievable goals, and reduce screen time to make space for reading."
+  },
+  {
+    "prompt": "What is the multiverse theory?",
+    "response": "The multiverse theory suggests our universe might be just one of many parallel universes that exist simultaneously, each with possibly different physical laws and constants."
+  },
+  {
+    "prompt": "How do fingerprints form?",
+    "response": "Fingerprints form during fetal development from 10-24 weeks due to genetic factors and random stresses in the womb, creating unique ridge patterns that remain unchanged throughout life."
+  },
+  {
+    "prompt": "What is the difference between a crocodile and an alligator?",
+    "response": "Crocodiles have V-shaped snouts and show both upper and lower teeth when closed. Alligators have U-shaped snouts and only show upper teeth when closed. Crocodiles are also more aggressive."
+  },
+  {
+    "prompt": "How do I make biryani rice?",
+    "response": "Soak basmati rice for 30 minutes, parboil with whole spices until 70% cooked, then layer with marinated meat and cook on low heat (dum style) to allow flavors to meld together."
+  },
+  {
+    "prompt": "What is the placebo effect?",
+    "response": "The placebo effect occurs when a person experiences real physiological improvements after receiving a treatment with no active therapeutic成分, simply because they believe it will work."
+  },
+  {
+    "prompt": "How do submarines dive and surface?",
+    "response": "Submarines use ballast tanks: to dive, they fill tanks with water to become heavier than buoyancy; to surface, they pump compressed air into tanks to push water out, making them lighter."
+  },
+  {
+    "prompt": "What is the story of Ramayana?",
+    "response": "The Ramayana is an ancient Hindu epic about Prince Rama's quest to rescue his wife Sita from the demon king Ravana, with help from his brother Lakshmana and the monkey god Hanuman. It explores themes of duty, righteousness, and devotion."
+  },
+  {
+    "prompt": "How do I practice mindfulness?",
+    "response": "Focus on your present experience without judgment, pay attention to your breath, notice sensations in your body, observe thoughts as they come and go, and engage fully in whatever you're doing."
+  },
+  {
+    "prompt": "What is the Fermi Paradox?",
+    "response": "The Fermi Paradox is the apparent contradiction between the high probability of extraterrestrial civilizations existing and the lack of evidence for, or contact with, such civilizations."
+  },
+  {
+    "prompt": "How do touchscreens work?",
+    "response": "Most smartphones use capacitive touchscreens: your finger conducts electricity, disrupting the screen's electrostatic field at that point, which sensors detect to determine the touch location."
+  },
+  {
+    "prompt": "What is the significance of yoga in Indian philosophy?",
+    "response": "Yoga is one of the six orthodox schools of Hindu philosophy, aiming to unite body, mind, and spirit through physical postures, breathing exercises, and meditation to achieve self-realization and liberation (moksha)."
+  },
+  {
+    "prompt": "How do I make a budget?",
+    "response": "Track your income and expenses, categorize spending, set financial goals, create spending limits for each category, review and adjust regularly, and build in savings as a non-negotiable expense."
+  },
+  {
+    "prompt": "What is deja vu?",
+    "response": "Déjà vu (French for 'already seen') is the strange feeling that you've experienced a current situation before. The cause isn't fully understood but may involve minor glitches in memory processing."
+  },
+  {
+    "prompt": "How do glaciers form?",
+    "response": "Glaciers form when snow accumulates over years, compresses into dense ice, and begins to flow slowly downhill under its own weight due to gravity."
+  },
+  {
+    "prompt": "What is the difference between a planet and a star?",
+    "response": "Stars generate their own light and heat through nuclear fusion, while planets orbit stars and reflect their light. Stars are much larger and hotter than planets."
+  },
+  {
+        "prompt": "How do I make samosas?",
+        "response": "Make a dough with flour, water, and oil. Prepare a filling with spiced potatoes, peas, and optional meat. Roll out dough, cut into triangles, fill, seal, and deep-fry until golden brown."
+  },
+  {
+    "prompt": "What is the capital of Brazil?",
+    "response": "The capital of Brazil is Brasília, a planned city that became the capital in 1960 to help develop the country's interior."
+  },
+  {
+    "prompt": "How do I make a good cup of tea?",
+    "response": "Use fresh, cold water and bring it to a rolling boil. Warm your teapot first, add one teaspoon of tea leaves per cup, pour water over, and steep for 3-5 minutes depending on desired strength."
+  },
+  {
+    "prompt": "What is the difference between a virus and bacteria?",
+    "response": "Bacteria are single-celled living organisms that can reproduce on their own. Viruses are not considered living - they need a host cell to reproduce and are much smaller than bacteria."
+  },
+  {
+    "prompt": "How does a microwave oven work?",
+    "response": "Microwaves use electromagnetic radiation to make water molecules in food vibrate rapidly, creating heat through friction that cooks the food from the inside out."
+  },
+  {
+    "prompt": "What are the main festivals celebrated in India?",
+    "response": "Major Indian festivals include Diwali (Festival of Lights), Holi (Festival of Colors), Eid, Christmas, Durga Puja, Ganesh Chaturthi, Raksha Bandhan, and Onam."
+  },
+  {
+    "prompt": "How can I improve my public speaking skills?",
+    "response": "Practice regularly, know your material well, focus on your audience rather than yourself, use pauses effectively, maintain eye contact, and remember that most nervousness isn't visible to others."
+  },
+  {
+    "prompt": "What is the Industrial Revolution?",
+    "response": "The Industrial Revolution was the transition to new manufacturing processes from about 1760 to 1840, moving from hand production to machines, new chemical manufacturing, and the rise of the factory system."
+  },
+  {
+    "prompt": "How do birds know how to migrate?",
+    "response": "Birds use a combination of innate genetic programming, the sun and stars for navigation, Earth's magnetic field, landmarks, and even learned routes from other birds to migrate."
+  },
+  {
+    "prompt": "What is the difference between weather and climate?",
+    "response": "Weather refers to short-term atmospheric conditions (hours/days), while climate describes long-term weather patterns and averages in a region (typically over 30 years or more)."
+  },
+  {
+    "prompt": "How do I make chapati/roti?",
+    "response": "Knead whole wheat flour with water to make dough, divide into balls, roll into circles, and cook on a hot tawa until bubbles form, then flip and cook until both sides have golden spots."
+  },
+  {
+    "prompt": "What is the significance of the number 7?",
+    "response": "The number 7 is considered lucky and significant in many cultures - there are 7 days in a week, 7 wonders of the world, 7 colors in a rainbow, and it appears frequently in religion and mythology."
+  },
+  {
+    "prompt": "How do airplanes stay in the air?",
+    "response": "Airplanes stay airborne through lift generated by their wings. The curved shape of wings makes air move faster over the top, creating lower pressure above than below the wing, which produces upward lift."
+  },
+  {
+    "prompt": "What is the difference between a psychologist and psychiatrist?",
+    "response": "Psychologists typically have doctoral degrees and provide therapy, while psychiatrists are medical doctors who can prescribe medication and also provide therapy."
+  },
+  {
+    "prompt": "How do I make lemonade?",
+    "response": "Mix fresh lemon juice with water and sugar to taste. The basic ratio is 1 part lemon juice to 1 part sugar dissolved in 4-6 parts water. Add ice and mint for refreshment!"
+  },
+  {
+    "prompt": "What is the largest mammal in the world?",
+    "response": "The blue whale is the largest mammal and largest animal ever known to have existed, reaching lengths of up to 100 feet and weights of up to 200 tons."
+  },
+  {
+    "prompt": "How does Bluetooth work?",
+    "response": "Bluetooth uses short-range radio waves in the 2.4 GHz frequency band to wirelessly connect devices over short distances (typically up to 10 meters)."
+  },
+  {
+    "prompt": "What is the history of chocolate?",
+    "response": "Chocolate originated in Mesoamerica where the Maya and Aztecs consumed it as a bitter drink. Spanish explorers brought it to Europe where it was sweetened with sugar, and the industrial revolution made solid chocolate possible."
+  },
+  {
+    "prompt": "How can I be more environmentally friendly?",
+    "response": "Reduce single-use plastics, conserve water and energy, use public transportation when possible, recycle properly, support sustainable products, and reduce meat consumption."
+  },
+  {
+    "prompt": "What is the Turing Test?",
+    "response": "The Turing Test evaluates a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. If a human judge cannot reliably tell machine from human, the machine passes."
+  },
+  {
+    "prompt": "How do I make chicken curry?",
+    "response": "Sauté onions, ginger, and garlic, add spices, brown chicken pieces, add tomatoes, and simmer until chicken is tender and gravy thickens. Finish with garam masala and fresh coriander."
+  },
+  {
+    "prompt": "What is the Doppler effect?",
+    "response": "The Doppler effect is the change in frequency or wavelength of a wave in relation to an observer moving relative to the wave source. It's why a siren sounds higher as it approaches and lower as it moves away."
+  },
+  {
+    "prompt": "How do plants make their own food?",
+    "response": "Plants perform photosynthesis - using sunlight, water, and carbon dioxide to produce glucose (food) and oxygen. This process occurs in chloroplasts within plant cells."
+  },
+  {
+    "prompt": "What is the difference between a mosque, temple, and church?",
+    "response": "A mosque is for Muslim worship, a temple is typically for Hindu/Buddhist/Jain worship, and a church is for Christian worship. Each has distinct architectural features, rituals, and practices."
+  },
+  {
+    "prompt": "How do I make yogurt at home?",
+    "response": "Heat milk to 180°F, cool to 110°F, mix in a spoonful of existing yogurt (starter culture), keep warm for 6-8 hours until set. The bacteria ferment the lactose, creating yogurt."
+  },
+  {
+    "prompt": "What is dark matter?",
+    "response": "Dark matter is a hypothetical form of matter that doesn't emit, absorb, or reflect light, but exerts gravitational effects. It's thought to make up about 27% of the universe's mass-energy content."
+  },
+  {
+    "prompt": "How do airplanes avoid colliding?",
+    "response": "Pilots use traffic collision avoidance systems (TCAS), follow air traffic control instructions, maintain assigned altitudes and routes, and use visual scanning to see and avoid other aircraft."
+  },
+  {
+    "prompt": "What is the significance of the lotus in Indian culture?",
+    "response": "The lotus symbolizes purity, beauty, prosperity, and spiritual enlightenment in Indian culture. It represents how one can rise above worldly attachments, just as the lotus rises clean from muddy water."
+  },
+  {
+    "prompt": "How do I start composting?",
+    "response": "Choose a bin or spot, layer green materials (food scraps) with brown materials (dry leaves), keep moist but not wet, turn regularly for aeration, and in 2-6 months you'll have rich compost for your garden."
+  },
+  {
+    "prompt": "What is the butterfly effect?",
+    "response": "In chaos theory, the butterfly effect suggests that small changes in initial conditions can lead to vastly different outcomes - the concept that a butterfly flapping its wings could eventually cause a tornado elsewhere."
+  },
+  {
+    "prompt": "How do vaccines work?",
+    "response": "Vaccines introduce a harmless version of a pathogen to train your immune system to recognize and fight the real pathogen quickly if you're exposed in the future, providing immunity."
+  },
+  {
+    "prompt": "What is the story behind the Taj Mahal?",
+    "response": "Mughal Emperor Shah Jahan built the Taj Mahal in Agra as a mausoleum for his favorite wife Mumtaz Mahal, who died in childbirth. It took about 20 years and 20,000 artisans to complete this UNESCO World Heritage Site."
+  },
+  {
+    "prompt": "How do I negotiate effectively?",
+    "response": "Research beforehand, know your worth, listen actively, find common ground, be willing to compromise, maintain professionalism, and focus on creating win-win solutions rather than just winning."
+  },
+  {
+    "prompt": "What is the difference between a comet and asteroid?",
+    "response": "Comets are icy bodies that develop glowing comas and tails when near the sun, while asteroids are rocky/metallic bodies that mainly orbit in the asteroid belt between Mars and Jupiter."
+  },
+  {
+    "prompt": "How do I make perfect rice?",
+    "response": "Rinse rice until water runs clear, use the right water ratio (usually 2:1 water to rice for white rice), bring to boil then simmer covered for 18-20 minutes, then let steam off heat for 5-10 minutes."
+  },
+  {
+    "prompt": "What is imposter syndrome?",
+    "response": "Imposter syndrome is the psychological pattern where people doubt their accomplishments and have a persistent fear of being exposed as a 'fraud,' despite evidence of their competence."
+  },
+  {
+    "prompt": "How do solar panels generate electricity?",
+    "response": "Solar panels contain photovoltaic cells that convert sunlight into electricity. When sunlight hits these cells, it knocks electrons loose, creating an electric current that can be harnessed as power."
+  },
+  {
+    "prompt": "What is the significance of the Ganges River?",
+    "response": "The Ganges is considered the most sacred river in Hinduism. Bathing in it is believed to purify sins and facilitate Moksha (liberation from rebirth). It's also personified as the goddess Ganga."
+  },
+  {
+    "prompt": "How do I develop better reading habits?",
+    "response": "Set aside dedicated reading time, always carry a book, reduce screen time, join a book club, start with genres you enjoy, set achievable goals, and create a comfortable reading space."
+  },
+  {
+    "prompt": "What is the multiverse theory?",
+    "response": "The multiverse theory suggests our universe might be just one of many parallel universes that exist simultaneously, each with possibly different physical laws, constants, and histories."
+  },
+  {
+    "prompt": "How do fingerprints form?",
+    "response": "Fingerprints form during fetal development due to genetic factors and random stresses in the womb, creating unique ridge patterns that remain essentially unchanged throughout life."
+  },
+  {
+    "prompt": "What is the difference between a crocodile and alligator?",
+    "response": "Crocodiles have V-shaped snouts and show both upper and lower teeth when closed. Alligators have U-shaped snouts and only show upper teeth when closed. Crocodiles are also typically more aggressive."
+  },
+  {
+    "prompt": "How do I make biryani?",
+    "response": "Layer partially cooked basmati rice with marinated meat, fried onions, and spices. Cook on low heat (dum style) to allow the flavors to meld together. The key is in the layering and slow cooking."
+  },
+  {
+    "prompt": "What is the placebo effect?",
+    "response": "The placebo effect occurs when a person experiences real physiological improvements after receiving a treatment with no active therapeutic成分, simply because they believe it will work."
+  },
+  {
+    "prompt": "How do submarines dive and surface?",
+    "response": "Submarines use ballast tanks: to dive, they fill tanks with water to become heavier; to surface, they pump compressed air into tanks to push water out, making them buoyant again."
+  },
+  {
+    "prompt": "What is the story of the Ramayana?",
+    "response": "The Ramayana is an ancient Hindu epic about Prince Rama's quest to rescue his wife Sita from the demon king Ravana, with help from his brother Lakshmana and the monkey god Hanuman."
+  },
+  {
+    "prompt": "How do I practice mindfulness meditation?",
+    "response": "Find a quiet space, sit comfortably, focus on your breath, notice when your mind wanders, gently return attention to your breath, and practice non-judgmental awareness of the present moment."
+  },
+  {
+    "prompt": "What is the Fermi Paradox?",
+    "response": "The Fermi Paradox is the apparent contradiction between the high probability of extraterrestrial civilizations existing and the lack of evidence for, or contact with, such civilizations."
+  },
+  {
+    "prompt": "How do touchscreens work?",
+    "response": "Most smartphones use capacitive touchscreens: your finger conducts electricity, disrupting the screen's electrostatic field at that point, which sensors detect to determine the touch location."
+  },
+  {
+    "prompt": "What is the philosophy behind yoga?",
+    "response": "Yoga philosophy aims to unite body, mind, and spirit through physical postures, breathing exercises, and meditation to achieve self-realization, inner peace, and ultimately liberation (moksha)."
+  },
+  {
+    "prompt": "How do I create a personal budget?",
+    "response": "Track income and expenses, categorize spending, set financial goals, create spending limits for each category, build in savings, review regularly, and adjust as needed."
+  },
+  {
+    "prompt": "What is deja vu?",
+    "response": "Déjà vu (French for 'already seen') is the strange feeling that you've experienced a current situation before. The cause isn't fully understood but may involve minor glitches in memory processing."
+  },
+  {
+    "prompt": "How do glaciers form and move?",
+    "response": "Glaciers form when snow accumulates over years, compresses into dense ice, and begins to flow slowly downhill under its own weight due to gravity and internal deformation."
+  },
+  {
+    "prompt": "What is the difference between a planet and star?",
+    "response": "Stars generate their own light and heat through nuclear fusion, while planets orbit stars and reflect their light. Stars are much larger, hotter, and more massive than planets."
+  },
+  {
+    "prompt": "What is the smallest bone in the human body?",
+    "response": "The stapes bone in the middle ear is the smallest bone in the human body, measuring only about 2.8 millimeters long."
+  },
+  {
+    "prompt": "How do satellites stay in orbit?",
+    "response": "Satellites stay in orbit by moving forward at just the right speed where Earth's gravity pulls them downward exactly as much as they curve around the planet, creating a continuous falling path that never reaches the ground."
+  },
+  {
+    "prompt": "What is the origin of the universe according to science?",
+    "response": "The prevailing scientific theory is the Big Bang, which suggests the universe began as an infinitely dense point about 13.8 billion years ago and has been expanding and cooling ever since."
+  },
+  {
+    "prompt": "How does a battery store energy?",
+    "response": "Batteries store energy through chemical reactions. When charging, electrical energy drives chemical reactions that store energy. When discharging, these reactions reverse, releasing electrical energy."
+  },
+  {
+    "prompt": "What is the significance of the number 108 in Hinduism?",
+    "response": "In Hinduism, 108 is considered sacred and auspicious. There are 108 Upanishads, 108 beads in a mala (prayer beads), and many deities have 108 names. It represents the universe's wholeness."
+  },
+  {
+    "prompt": "How do dolphins sleep without drowning?",
+    "response": "Dolphins sleep by shutting down one hemisphere of their brain at a time, allowing them to continue swimming, surface for air, and maintain awareness of predators while still getting rest."
+  },
+  {
+    "prompt": "What is the difference between a tornado and a hurricane?",
+    "response": "Tornadoes are small, intense rotating columns of air that form over land during thunderstorms, while hurricanes are massive tropical storm systems that form over warm ocean waters and can be hundreds of miles wide."
+  },
+  {
+    "prompt": "How does the human immune system work?",
+    "response": "The immune system has two main parts: innate immunity provides immediate general defense, while adaptive immunity develops specific responses to pathogens and creates memory cells for faster future responses."
+  },
+  {
+    "prompt": "What is the concept of karma in Eastern religions?",
+    "response": "Karma is the spiritual principle of cause and effect where intentional actions influence future outcomes - good actions lead to positive results, while harmful actions lead to negative consequences."
+  },
+  {
+    "prompt": "How do geckos walk on ceilings?",
+    "response": "Geckos use van der Waals forces - microscopic hairs on their toe pads create molecular attractions with surfaces so strong that they can support the gecko's weight even upside down."
+  },
+  {
+    "prompt": "What is the theory of plate tectonics?",
+    "response": "Plate tectonics theory states that Earth's lithosphere is divided into plates that slowly move over the asthenosphere, causing continental drift, earthquakes, volcanoes, and mountain formation where plates interact."
+  },
+  {
+    "prompt": "How does the stock market determine share prices?",
+    "response": "Stock prices are determined by supply and demand in the market. When more people want to buy a stock than sell it, the price goes up, and vice versa, influenced by company performance and economic conditions."
+  },
+  {
+    "prompt": "What is the significance of the Olympic rings?",
+    "response": "The five interconnected rings represent the five inhabited continents (Africa, Americas, Asia, Europe, Oceania), and the colors (blue, yellow, black, green, red) were chosen because every nation's flag contains at least one of them."
+  },
+  {
+    "prompt": "How do mosquitoes find humans to bite?",
+    "response": "Mosquitoes use multiple cues: they detect carbon dioxide from breath from up to 100 feet away, sense body heat, and are attracted to certain body odors and chemicals in sweat."
+  },
+  {
+    "prompt": "What is the Fibonacci sequence and where does it appear in nature?",
+    "response": "The Fibonacci sequence is a series where each number is the sum of the two preceding ones (0, 1, 1, 2, 3, 5, 8...). It appears in sunflower seed arrangements, pinecones, hurricane clouds, and nautilus shells."
+  },
+  {
+    "prompt": "How does a microwave oven cook food so quickly?",
+    "response": "Microwaves use electromagnetic radiation that specifically excites water molecules in food, causing them to vibrate rapidly and generate heat throughout the food simultaneously, rather than just heating from the outside in."
+  },
+  {
+    "prompt": "What is the difference between a meteor, meteorite, and meteoroid?",
+    "response": "A meteoroid is a small rock in space, a meteor is the light streak seen when it burns in the atmosphere (shooting star), and a meteorite is what remains if it reaches the ground."
+  },
+  {
+    "prompt": "How do chameleons change color?",
+    "response": "Chameleons change color through special cells called chromatophores that contain pigments and crystals which can reflect light differently when the cells expand or contract, controlled by hormones and temperature."
+  },
+  {
+    "prompt": "What is the significance of the lotus position in meditation?",
+    "response": "The lotus position (padmasana) provides a stable, symmetrical base that helps maintain spinal alignment, reduces physical distractions, and is believed to facilitate energy flow during meditation."
+  },
+  {
+    "prompt": "How do airplanes communicate with air traffic control?",
+    "response": "Pilots use VHF radio communication on specific frequencies for their region and altitude. They also use transponders that send identification and altitude information to radar systems."
+  },
+  {
+    "prompt": "What is the greenhouse effect?",
+    "response": "The greenhouse effect is a natural process where certain gases in Earth's atmosphere trap heat, keeping the planet warm enough for life. Human activities are enhancing this effect by increasing these gases, causing global warming."
+  },
+  {
+    "prompt": "How do whales communicate over long distances?",
+    "response": "Whales use low-frequency sounds that can travel hundreds of miles underwater. Different populations have distinct dialects, and their songs can contain complex patterns that may convey information."
+  },
+  {
+    "prompt": "What is the concept of zero in mathematics?",
+    "response": "Zero serves as both a placeholder in our number system and represents the concept of nothingness. Its development was crucial for advanced mathematics, including algebra and calculus."
+  },
+  {
+    "prompt": "How does a photocopier work?",
+    "response": "Photocopiers use static electricity: a drum gets electrically charged, light creates an image pattern on it, toner (powdered ink) sticks to the charged areas, and is then transferred and fused onto paper with heat."
+  },
+  {
+    "prompt": "What is the significance of the hamsa hand symbol?",
+    "response": "The hamsa (or hand of Fatima) is a protective symbol used in both Jewish and Islamic traditions, believed to ward off the evil eye and bring happiness, luck, health, and good fortune."
+  },
+  {
+    "prompt": "How do birds know how to build nests?",
+    "response": "Nest building is primarily instinctive - birds are born with the knowledge, though some species may learn and improve their techniques through observation and experience."
+  },
+  {
+    "prompt": "What is the difference between a nuclear fission and fusion?",
+    "response": "Fission splits heavy atoms to release energy (used in nuclear power plants), while fusion combines light atoms to release energy (how the sun and stars produce energy)."
+  },
+  {
+    "prompt": "How does the human brain form memories?",
+    "response": "Memories form through changes in synaptic connections between neurons. The hippocampus helps form new memories, which are then stored throughout the cortex, strengthened through repetition and emotional significance."
+  },
+  {
+    "prompt": "What is the significance of the om symbol?",
+    "response": "Om (or aum) is considered the primordial sound of the universe in Hinduism, Buddhism, and Jainism. It represents the ultimate reality, consciousness, and the union of mind, body, and spirit."
+  },
+  {
+    "prompt": "How do fireflies produce light?",
+    "response": "Fireflies produce light through bioluminescence - a chemical reaction where luciferin combines with oxygen, ATP, and the enzyme luciferase, producing light with very little heat."
+  },
+  {
+    "prompt": "What is the theory of relativity in simple terms?",
+    "response": "Einstein's theory has two parts: special relativity says physics works the same for all moving observers and nothing can exceed light speed; general relativity says gravity results from mass warping spacetime."
+  },
+  {
+    "prompt": "How do snakes hear without ears?",
+    "response": "Snakes don't have external ears but can sense vibrations through their jawbones connected to inner ears, and some can detect infrared radiation (heat) from prey through special pit organs."
+  },
+  {
+    "prompt": "What is the significance of the banyan tree in Indian culture?",
+    "response": "The banyan tree represents longevity, stability, and protection in Indian culture. It's often considered sacred and is a popular gathering place for communities, symbolizing eternal life with its ever-expanding growth."
+  },
+  {
+    "prompt": "How do glaciers shape landscapes?",
+    "response": "Glaciers shape land through plucking (tearing rock from bedrock), abrasion (scraping with embedded rocks), carving U-shaped valleys, creating moraines from debris, and leaving behind lakes when they retreat."
+  },
+  {
+    "prompt": "What is the difference between a hypothesis, theory, and law in science?",
+    "response": "A hypothesis is a testable prediction, a theory is a well-supported explanation of phenomena (like evolution), and a law describes observable patterns (like gravity) without explaining why they occur."
+  },
+  {
+    "prompt": "How do magnets work?",
+    "response": "Magnetism arises from the motion of electrons. In magnets, many electrons spin in the same direction, creating a magnetic field with north and south poles that attract opposite poles and repel like poles."
+  },
+  {
+    "prompt": "What is the significance of the third eye in spiritual traditions?",
+    "response": "The third eye (located between eyebrows) represents intuition, inner wisdom, and spiritual awakening in Hinduism, Buddhism, and other traditions. It symbolizes seeing beyond physical reality into deeper truth."
+  },
+  {
+    "prompt": "How do trees communicate with each other?",
+    "response": "Trees communicate through underground fungal networks (mycorrhizal networks) that connect root systems, allowing them to share nutrients and chemical warnings about pests or other threats."
+  },
+  {
+    "prompt": "What is dark energy?",
+    "response": "Dark energy is a mysterious force making up about 68% of the universe that is causing the expansion of the universe to accelerate. Its exact nature remains one of physics' greatest mysteries."
+  },
+  {
+    "prompt": "How do currency exchange rates work?",
+    "response": "Exchange rates are determined by supply and demand in global markets, influenced by interest rates, economic stability, inflation, political conditions, and market speculation about future values."
+  },
+  {
+    "prompt": "What is the significance of the swastika in ancient cultures?",
+    "response": "The swastika is an ancient sacred symbol in Hinduism, Buddhism, and other cultures representing good fortune, well-being, and the sun. Its meaning was tragically corrupted in the 20th century."
+  },
+  {
+    "prompt": "How do octopuses change color and texture?",
+    "response": "Octopuses use specialized pigment cells called chromatophores that expand and contract to change color, and muscles that control skin texture to mimic everything from smooth sand to rough coral."
+  },
+  {
+    "prompt": "What is the concept of mindfulness in Buddhism?",
+    "response": "Mindfulness (sati) means maintaining moment-by-moment awareness of thoughts, feelings, bodily sensations, and surroundings without judgment, helping reduce suffering and increase peace and clarity."
+  },
+  {
+    "prompt": "How do scientists determine the age of fossils?",
+    "response": "Scientists use radiometric dating (measuring radioactive isotope decay), relative dating (comparing rock layers), and other methods like tree rings or ice cores to determine fossil ages."
+  },
+  {
+    "prompt": "What is the significance of the elephant in Indian culture?",
+    "response": "Elephants represent wisdom, strength, prosperity, and royalty in Indian culture. The elephant-headed god Ganesha is worshipped as the remover of obstacles and god of beginnings."
+  },
+  {
+    "prompt": "How do holograms work?",
+    "response": "Holograms use laser light interference patterns to record and reconstruct 3D images. Unlike photographs, holograms capture both the intensity and phase of light, creating the illusion of depth."
+  },
+  {
+    "prompt": "What is the difference between a psychopath and sociopath?",
+    "response": "Both fall under antisocial personality disorder. Psychopaths tend to be more calculated, lacking empathy from birth, while sociopaths are more impulsive, often developing from environment/trauma."
+  },
+  {
+    "prompt": "How do northern lights form?",
+    "response": "The aurora borealis occurs when charged particles from the sun are drawn to Earth's poles by our magnetic field and collide with atmospheric gases, causing them to emit beautiful colored light."
+  },
+  {
+    "prompt": "What is the significance of the peacock in Indian mythology?",
+    "response": "The peacock is India's national bird and represents grace, beauty, and protection in mythology. It's associated with several deities including Lakshmi (prosperity), Saraswati (wisdom), and Kartikeya (war)."
+  },
+  {
+    "prompt": "How do vaccines create herd immunity?",
+    "response": "When enough people are vaccinated, the disease can't spread easily through the population, protecting those who can't be vaccinated (like infants or immunocompromised people) by reducing their exposure risk."
+  },
+  {
+    "prompt": "What is the concept of maya in Hindu philosophy?",
+    "response": "Maya refers to the illusion or appearance of the phenomenal world. It's not that the world doesn't exist, but that we perceive it incompletely, mistaking the temporary for the eternal reality (Brahman)."
+  },
+  {
+    "prompt": "How do scientists measure the distance to stars?",
+    "response": "For nearby stars, astronomers use parallax (comparing apparent position from different points in Earth's orbit). For farther stars, they use methods like standard candles (certain types of stars with known brightness)."
+  },
+  {
+    "prompt": "What is the significance of the cow in Hinduism?",
+    "response": "Cows are revered in Hinduism as symbols of non-violence, generosity, and Mother Earth. They represent life-sustaining qualities and are protected, though worship practices vary across regions and communities."
+  }
+
+
+
+]
