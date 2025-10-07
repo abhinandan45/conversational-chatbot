@@ -4,3 +4,4 @@ openai==1.45.0
 requests==2.32.3
 sentence-transformers==3.2.1
 pydub
+torch==2.2.0
