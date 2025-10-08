@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+# Git ko bata do ki line endings ke saath khud handle kare
+git config --global core.autocrlf true
