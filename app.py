@@ -7,6 +7,9 @@ from flask import Flask, render_template, request, jsonify, send_file
 from sentence_transformers import SentenceTransformer, util
 from pydub import AudioSegment
 
+import os
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
 API_URL_TTS = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-tts:generateContent?key="
 API_URL_LLM = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key="
 
